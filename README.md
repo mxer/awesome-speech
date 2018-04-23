@@ -32,92 +32,93 @@ this is a treasure-house of speech
 
 ## <h2 id="1">语音识别</h2>
 ### <h3 id="1.2">open source library/toolbox</h3>
-### [HTK](http://htk.eng.cam.ac.uk/download.shtml)
-### Kaldi:
+#### HTK
+* http://htk.eng.cam.ac.uk/download.shtml)
+#### Kaldi:
 * https://github.com/kaldi-asr/kaldi
-  #### py-kaldi-asr
+  py-kaldi-asr
 * https://github.com/gooofy/py-kaldi-asr
-  #### Dan's DNN implementation:
+  Dan's DNN implementation:
 * http://kaldi-asr.org/doc/dnn2.html
-  #### pytorch-kaldi
+  pytorch-kaldi
 * https://github.com/mravanelli/pytorch-kaldi/
-  #### kaldi-lstm
+  kaldi-lstm
 * https://github.com/dophist/kaldi-lstm
-  #### keras-kaldi
+  keras-kaldi
 * https://github.com/dspavankumar/keras-kaldi
-  #### Kaldi+PDNN
+  Kaldi+PDNN
 * https://github.com/yajiemiao/kaldipdnn
-  #### kaldi-ivector
+  kaldi-ivector
 * https://github.com/idiap/kaldi-ivector
-  #### CSLT-Sparse-DNN-Toolkit
+  CSLT-Sparse-DNN-Toolkit
 * https://github.com/wyq730/CSLT-Sparse-DNN-Toolkit
-  #### kaldi 在线中文识别系统搭建
+  kaldi 在线中文识别系统搭建
 * https://blog.csdn.net/shichaog/article/details/73655628
-### Sphinx
+#### Sphinx
 * https://cmusphinx.github.io/
 * https://github.com/cmusphinx
 * https://pypi.org/project/pocketsphinx/
-### OpenFst
+  OpenFst
 * http://www.openfst.org/twiki/bin/view/FST/WebHome
-### MIT Spoken Language Systems
+  MIT Spoken Language Systems
 * https://groups.csail.mit.edu/sls/downloads/
-### Julius
+  Julius
 * http://julius.osdn.jp/en_index.php
 * https://github.com/julius-speech/julius
-### Bavieca
+  Bavieca
 * http://www.bavieca.org/
-### Simon 
+  Simon 
 * https://simon.kde.org/
-### SRILM
+  SRILM
 * https://www.sri.com/engage/products-solutions/sri-language-modeling-toolkit
 * https://github.com/njsmith/pysrilm
-### ISIP
+  ISIP
 * https://www.isip.piconepress.com/projects/speech/
-###  MIT Finite-State Transducer (FST) Toolkit
+  MIT Finite-State Transducer (FST) Toolkit
 * http://groups.csail.mit.edu/sls/downloads/
-### MIT Language Modeling (MITLM) Toolkit
+  MIT Language Modeling (MITLM) Toolkit
 * http://groups.csail.mit.edu/sls/downloads/
-### OpenGrm
+  OpenGrm
 * http://www.openfst.org/twiki/bin/view/GRM/WebHome
-### SpeechRecognition
+  SpeechRecognition
 * https://github.com/Uberi/speech_recognition
-### SpeechPy
+  SpeechPy
 * https://github.com/astorfi/speechpy
-### Aalto
+  Aalto
 * https://github.com/aalto-speech/AaltoASR
-### google-cloud-speech
+  google-cloud-speech
 * https://pypi.org/project/google-cloud-speech/
-### apiai
+  apiai
 https://pypi.org/project/apiai/
-### wit
+  wit
 * https://pypi.org/project/wit/
-### dejavu
+  dejavu
 * https://github.com/worldveil/dejavu
-### uSpeech
+  uSpeech
 * https://github.com/arjo129/uSpeech
-### Juicer
+  Juicer
 * https://github.com/idiap/juicer
-### dragonfly
+  dragonfly
 * https://github.com/t4ngo/dragonfly
-### SPTK
+  SPTK
 * http://sp-tk.sourceforge.net/
-### Speech Recognition Grammar Specification
+  Speech Recognition Grammar Specification
 * https://www.w3.org/TR/speech-grammar/
-### Automatic_Speech_Recognition
+  Automatic_Speech_Recognition
 * https://github.com/zzw922cn/Automatic_Speech_Recognition
-### speech-to-text-wavenet
+  speech-to-text-wavenet
 * https://github.com/buriburisuri/speech-to-text-wavenet
-### tensorflow-speech-recognition
+  tensorflow-speech-recognition
 * https://github.com/pannous/tensorflow-speech-recognition
-### tensorflow_speech_recognition_demo
+  tensorflow_speech_recognition_demo
 * https://github.com/llSourcell/tensorflow_speech_recognition_demo
-### AVSR-Deep-Speech
+  AVSR-Deep-Speech
 * https://github.com/pandeydivesh15/AVSR-Deep-Speech
 
 
 ## <h2 id="2">语音合成</h2>
 ### <h3 id="2.2">open source library/toolbox</h3>
-### WORLD
+  WORLD
 * https://github.com/mmorise/World
 ### HTS
 * http://hts.sp.nitech.ac.jp/
