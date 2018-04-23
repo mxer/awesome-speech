@@ -6,3 +6,5 @@ this is a treasure-house of speech
   * [open source library/toolbox](#1.1)
   
 ![HTK](http://htk.eng.cam.ac.uk/download.shtml)
+Kaldi:
+https://github.com/kaldi-asr/kaldi
