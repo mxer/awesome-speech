@@ -5,16 +5,18 @@ this is a treasure-house of speech
 * [语音识别（ASR,STT）](#1)
   * [open source library/toolbox](#1.2)
   * [corpus/dataset](#1.3)
+  * [教程](#1.4)
 * [语音合成（Speech Synthesis,TTS）](#2)
   * [pages](#2.1)
   * [open source library/toolbox](#2.2)
-* [前端（front end）](#3)
-  * [Audio I/O](#3.1)
-  * [Source Separation](#3.2)
-  * [Feature Extraction](#3.3)
-* [对话系统（Dialogue Systems）](#4)
-* [resource](#5)
-* [pages](#6)
+* [声纹识别（Speaker Recognition）](#3)
+* [前端（front end）](#4)
+  * [Audio I/O](#4.1)
+  * [Source Separation](#4.2)
+  * [Feature Extraction](#4.3)
+* [对话系统（Dialogue Systems）](#5)
+* [resource](#6)
+* [pages](#7)
 
 ## <h2 id="1">语音识别</h2>
 ### <h2 id="1.2">open source library/toolbox</h2>
@@ -77,12 +79,30 @@ this is a treasure-house of speech
 https://pypi.org/project/apiai/
 ### wit
 * https://pypi.org/project/wit/
+### dejavu
+* https://github.com/worldveil/dejavu
+### uSpeech
+* https://github.com/arjo129/uSpeech
+### Juicer
+* https://github.com/idiap/juicer
 ### dragonfly
 * https://github.com/t4ngo/dragonfly
 ### SPTK
 * http://sp-tk.sourceforge.net/
 ### Speech Recognition Grammar Specification
 * https://www.w3.org/TR/speech-grammar/
+### Automatic_Speech_Recognition
+* https://github.com/zzw922cn/Automatic_Speech_Recognition
+### speech-to-text-wavenet
+* https://github.com/buriburisuri/speech-to-text-wavenet
+### tensorflow-speech-recognition
+* https://github.com/pannous/tensorflow-speech-recognition
+### tensorflow_speech_recognition_demo
+* https://github.com/llSourcell/tensorflow_speech_recognition_demo
+
+### AVSR-Deep-Speech
+* https://github.com/pandeydivesh15/AVSR-Deep-Speech
+
 
 ## 语音合成
 ### WORLD
@@ -90,6 +110,17 @@ https://pypi.org/project/apiai/
 ### HTS
 * http://hts.sp.nitech.ac.jp/
 * http://hts-engine.sourceforge.net/
+### Tacotron2
+* https://github.com/riverphoenix/tacotron2
+* https://github.com/A-Jacobson/tacotron2
+* https://github.com/selap91/Tacotron2
+* https://github.com/LGizkde/Tacotron2_Tao_Shujie
+* https://github.com/rlawns1016/Tacotron2
+* https://github.com/CapstoneInha/Tacotron2-rehearsal
+### Merlin
+* https://github.com/CSTR-Edinburgh/merlin
+### mozilla TTS
+* https://github.com/mozilla/TTS
 ### Flite
 * http://www.speech.cs.cmu.edu/flite/
 ### Speect
@@ -100,6 +131,21 @@ https://pypi.org/project/apiai/
 * http://espeak.sourceforge.net/
 ### nnmnkwii
 * https://github.com/r9y9/nnmnkwii
+### Ossian
+* https://github.com/CSTR-Edinburgh/Ossian
+### Neural_Network_Voices
+* https://github.com/llSourcell/Neural_Network_Voices
+### pggan-pytorch
+* https://github.com/deepsound-project/pggan-pytorch
+### cainteoir-engine
+* https://github.com/rhdunn/cainteoir-engine
+### marytts(JAVA)
+* https://github.com/marytts/marytts
+
+## 声纹识别
+### speaker-recognition-py3
+* https://github.com/crouchred/speaker-recognition-py3
+
 
 ## 前端
 ### madmom
