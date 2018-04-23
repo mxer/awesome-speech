@@ -154,20 +154,20 @@ https://pypi.org/project/apiai/
 ### marytts(JAVA)
 * https://github.com/marytts/marytts
 
-## <h6 id="3">声纹识别</h6>
-### <h7 id="3.2">open source library/toolbox</h7>
+## <h2 id="3">声纹识别</h2>
+### <h3 id="3.2">open source library/toolbox</h3>
 ### speaker-recognition-py3
 * https://github.com/crouchred/speaker-recognition-py3
 
-## <h8 id="4">对话系统</h8>
-### <h9 id="4.2">open source library/toolbox</h9>
+## <h2 id="4">对话系统</h3>
+### <h2 id="4.2">open source library/toolbox</h3>
 ### PyDial
 * http://www.camdial.org/pydial/
 ### alex
 * https://github.com/UFAL-DSG/alex
 
-## <h10 id="5">前端</h10>
-### <h11 id="5.2">open source library/toolbox</h11>
+## <h2 id="5">前端</h2>
+### <h3 id="5.2">open source library/toolbox</h3>
 ### madmom
 * https://github.com/CPJKU/madmom
 ### pydub
@@ -209,7 +209,7 @@ http://distantspeechrecognition.sourceforge.net/
 
 
 
-## <h12 id="6">资源</h12>
+## <h2 id="6">资源</h2>
 ### cmusphinx
 * https://github.com/cmusphinx
 ### julius-speech
@@ -238,7 +238,7 @@ http://distantspeechrecognition.sourceforge.net/
 ### Audacity
 * https://www.audacityteam.org/
 
-## <h13 id="7">资源</h13>
+## <h3 id="7">资源</h3>
 ### cmusphinx
 * https://github.com/cmusphinx
 ### CMU Language Technologies Institute
