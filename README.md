@@ -31,218 +31,218 @@ this is a treasure-house of speech
 * [pages](#7)
 
 ## <h2 id="1">语音识别</h2>
-### <h3 id="1.2">open source library/toolbox</h3>
-#### HTK
+ ### <h3 id="1.2">open source library/toolbox</h3>
+ #### HTK
 * http://htk.eng.cam.ac.uk/download.shtml)
-#### Kaldi:
+ #### Kaldi:
 * https://github.com/kaldi-asr/kaldi
-  py-kaldi-asr
+ #### py-kaldi-asr
 * https://github.com/gooofy/py-kaldi-asr
-  Dan's DNN implementation:
+ #### Dan's DNN implementation:
 * http://kaldi-asr.org/doc/dnn2.html
-  pytorch-kaldi
+ #### pytorch-kaldi
 * https://github.com/mravanelli/pytorch-kaldi/
-  kaldi-lstm
+ #### kaldi-lstm
 * https://github.com/dophist/kaldi-lstm
-  keras-kaldi
+ #### keras-kaldi
 * https://github.com/dspavankumar/keras-kaldi
-  Kaldi+PDNN
+ #### Kaldi+PDNN
 * https://github.com/yajiemiao/kaldipdnn
-  kaldi-ivector
+ #### kaldi-ivector
 * https://github.com/idiap/kaldi-ivector
-  CSLT-Sparse-DNN-Toolkit
+ #### CSLT-Sparse-DNN-Toolkit
 * https://github.com/wyq730/CSLT-Sparse-DNN-Toolkit
-  kaldi 在线中文识别系统搭建
+ #### kaldi 在线中文识别系统搭建
 * https://blog.csdn.net/shichaog/article/details/73655628
-#### Sphinx
+ #### Sphinx
 * https://cmusphinx.github.io/
 * https://github.com/cmusphinx
 * https://pypi.org/project/pocketsphinx/
-  OpenFst
+ #### OpenFst
 * http://www.openfst.org/twiki/bin/view/FST/WebHome
-  MIT Spoken Language Systems
+ #### MIT Spoken Language Systems
 * https://groups.csail.mit.edu/sls/downloads/
-  Julius
+ #### Julius
 * http://julius.osdn.jp/en_index.php
 * https://github.com/julius-speech/julius
-  Bavieca
+ #### Bavieca
 * http://www.bavieca.org/
-  Simon 
+ #### Simon 
 * https://simon.kde.org/
-  SRILM
+ #### SRILM
 * https://www.sri.com/engage/products-solutions/sri-language-modeling-toolkit
 * https://github.com/njsmith/pysrilm
-  ISIP
+ #### ISIP
 * https://www.isip.piconepress.com/projects/speech/
-  MIT Finite-State Transducer (FST) Toolkit
+ #### MIT Finite-State Transducer (FST) Toolkit
 * http://groups.csail.mit.edu/sls/downloads/
-  MIT Language Modeling (MITLM) Toolkit
+ #### MIT Language Modeling (MITLM) Toolkit
 * http://groups.csail.mit.edu/sls/downloads/
-  OpenGrm
+ #### OpenGrm
 * http://www.openfst.org/twiki/bin/view/GRM/WebHome
-  SpeechRecognition
+ #### SpeechRecognition
 * https://github.com/Uberi/speech_recognition
-  SpeechPy
+ #### SpeechPy
 * https://github.com/astorfi/speechpy
-  Aalto
+ #### Aalto
 * https://github.com/aalto-speech/AaltoASR
-  google-cloud-speech
+ #### google-cloud-speech
 * https://pypi.org/project/google-cloud-speech/
-  apiai
+ #### apiai
 https://pypi.org/project/apiai/
-  wit
+ #### wit
 * https://pypi.org/project/wit/
-  dejavu
+ #### dejavu
 * https://github.com/worldveil/dejavu
-  uSpeech
+ #### uSpeech
 * https://github.com/arjo129/uSpeech
-  Juicer
+ #### Juicer
 * https://github.com/idiap/juicer
-  dragonfly
+ #### dragonfly
 * https://github.com/t4ngo/dragonfly
-  SPTK
+ #### SPTK
 * http://sp-tk.sourceforge.net/
-  Speech Recognition Grammar Specification
+ #### Speech Recognition Grammar Specification
 * https://www.w3.org/TR/speech-grammar/
-  Automatic_Speech_Recognition
+ #### Automatic_Speech_Recognition
 * https://github.com/zzw922cn/Automatic_Speech_Recognition
-  speech-to-text-wavenet
+ #### speech-to-text-wavenet
 * https://github.com/buriburisuri/speech-to-text-wavenet
-  tensorflow-speech-recognition
+ #### tensorflow-speech-recognition
 * https://github.com/pannous/tensorflow-speech-recognition
-  tensorflow_speech_recognition_demo
+ #### tensorflow_speech_recognition_demo
 * https://github.com/llSourcell/tensorflow_speech_recognition_demo
-  AVSR-Deep-Speech
+ #### AVSR-Deep-Speech
 * https://github.com/pandeydivesh15/AVSR-Deep-Speech
 
 
 ## <h2 id="2">语音合成</h2>
 ### <h3 id="2.2">open source library/toolbox</h3>
-  WORLD
+ #### WORLD
 * https://github.com/mmorise/World
-### HTS
+ #### HTS
 * http://hts.sp.nitech.ac.jp/
 * http://hts-engine.sourceforge.net/
-### Tacotron2
+ #### Tacotron2
 * https://github.com/riverphoenix/tacotron2
 * https://github.com/A-Jacobson/tacotron2
 * https://github.com/selap91/Tacotron2
 * https://github.com/LGizkde/Tacotron2_Tao_Shujie
 * https://github.com/rlawns1016/Tacotron2
 * https://github.com/CapstoneInha/Tacotron2-rehearsal
-### Merlin
+ #### Merlin
 * https://github.com/CSTR-Edinburgh/merlin
-### mozilla TTS
+ #### mozilla TTS
 * https://github.com/mozilla/TTS
-### Flite
+ #### Flite
 * http://www.speech.cs.cmu.edu/flite/
-### Speect
+ #### Speect
 * http://speect.sourceforge.net/
-### Festival
+ #### Festival
 * https://github.com/festvox/festival
-### eSpeak
+ #### eSpeak
 * http://espeak.sourceforge.net/
-### nnmnkwii
+ #### nnmnkwii
 * https://github.com/r9y9/nnmnkwii
-### Ossian
+ #### Ossian
 * https://github.com/CSTR-Edinburgh/Ossian
-### Neural_Network_Voices
+ #### Neural_Network_Voices
 * https://github.com/llSourcell/Neural_Network_Voices
-### pggan-pytorch
+ #### pggan-pytorch
 * https://github.com/deepsound-project/pggan-pytorch
-### cainteoir-engine
+ #### cainteoir-engine
 * https://github.com/rhdunn/cainteoir-engine
-### marytts(JAVA)
+ #### marytts(JAVA)
 * https://github.com/marytts/marytts
 
 ## <h2 id="3">声纹识别</h2>
-### <h3 id="3.2">open source library/toolbox</h3>
-### speaker-recognition-py3
+ ### <h3 id="3.2">open source library/toolbox</h3>
+ #### speaker-recognition-py3
 * https://github.com/crouchred/speaker-recognition-py3
 
 ## <h2 id="4">对话系统</h3>
-### <h2 id="4.2">open source library/toolbox</h3>
-### PyDial
+ ### <h2 id="4.2">open source library/toolbox</h3>
+  #### PyDial
 * http://www.camdial.org/pydial/
-### alex
+  #### alex
 * https://github.com/UFAL-DSG/alex
 
 ## <h2 id="5">前端</h2>
-### <h3 id="5.2">open source library/toolbox</h3>
-### madmom
+ ### <h3 id="5.2">open source library/toolbox</h3>
+ #### madmom
 * https://github.com/CPJKU/madmom
-### pydub
+ #### pydub
 * https://github.com/jiaaro/pydub
-### PortAudio
+ #### PortAudio
 * http://www.portaudio.com/
-### audiolab
+ #### audiolab
 * https://github.com/cournape/audiolab
-### BTK
+ #### BTK
 http://distantspeechrecognition.sourceforge.net/
-### HARK
+ #### HARK
 * https://www.hark.jp/wiki.cgi?page=HARK+Installation+Instructions
-### openSMILE(Feature Extractor)
+ #### openSMILE(Feature Extractor)
 * https://audeering.com/technology/opensmile/
-### VOICEBOX
+ #### VOICEBOX
 * http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html
-### featxtra
+ #### featxtra
 * https://github.com/mvansegbroeck/featxtra
-### Signal-Processing
+ #### Signal-Processing
 * https://github.com/mathEnthusaistCodes/Signal-Processing
-### kapre: Keras Audio Preprocessors
+ #### kapre: Keras Audio Preprocessors
 * https://github.com/keunwoochoi/kapre
-### pyroomacoustics
+ #### pyroomacoustics
 * https://github.com/LCAV/pyroomacoustics
-### audio-super-res
+ #### audio-super-res
 * https://github.com/kuleshov/audio-super-res
-### librosa
+ #### librosa
 * https://github.com/librosa/librosa
-### Pitch Detection
+ #### Pitch Detection
 * http://note.sonots.com/SciSoftware/Pitch.html
-### TFTB
+ #### TFTB
 * http://tftb.nongnu.org/
-### Digital Speech Decoder
+ #### Digital Speech Decoder
 * https://github.com/szechyjs/dsd
-### audacity.py
+ #### audacity.py
 * https://github.com/davidavdav/audacity.py
-### maracas
+ #### maracas
 * https://github.com/jfsantos/maracas
 
 
 
 ## <h2 id="6">资源</h2>
-### cmusphinx
+ ### cmusphinx
 * https://github.com/cmusphinx
-### julius-speech
+ #### julius-speech
 * https://github.com/julius-speech
-### OpenSLR
+ #### OpenSLR
 * http://www.openslr.org/
-### List of speech recognition software
+ #### List of speech recognition software
 * https://en.wikipedia.org/wiki/List_of_speech_recognition_software
-### VERBIO
+ #### VERBIO
 * http://www.verbio.com/webverbiotm/html/productes.php?id=2
-### Speech at CMU Web Page
+ #### Speech at CMU Web Page
 * http://www.speech.cs.cmu.edu/
-### CMU Robust Speech Group
+ #### CMU Robust Speech Group
 * http://www.cs.cmu.edu/~robust/code.html
-### Speech Software at CMU
+ #### Speech Software at CMU
 * http://www.speech.cs.cmu.edu/hephaestus.html
-### Aalto Speech Research
+ #### Aalto Speech Research
 * https://github.com/aalto-speech
-### CMU Festvox Project
+ #### CMU Festvox Project
 * https://github.com/festvox?tab=repositories
 * http://www.festvox.org/
-### CSTR
+ #### CSTR
 * http://www.cstr.ed.ac.uk/research/
-### Sparse Representation & Dictionary Learning Algorithms with Applications in Denoising, Separation, Localisation and Tracking
+ #### Sparse Representation & Dictionary Learning Algorithms with Applications in Denoising, Separation, Localisation and Tracking
 * http://personal.ee.surrey.ac.uk/Personal/W.Wang/codes.html
-### Audacity
+ #### Audacity
 * https://www.audacityteam.org/
 
 ## <h3 id="7">资源</h3>
-### cmusphinx
+ #### cmusphinx
 * https://github.com/cmusphinx
-### CMU Language Technologies Institute
+ #### CMU Language Technologies Institute
 * https://www.lti.cs.cmu.edu/work
-### MIT Spoken Language Systems
+ #### MIT Spoken Language Systems
 * https://groups.csail.mit.edu/sls/downloads/
