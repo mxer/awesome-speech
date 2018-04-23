@@ -5,6 +5,6 @@ this is a treasure-house of speech
 * [语音识别（ASR,STT）](#1)
   * [open source library/toolbox](#1.1)
   
-![HTK](http://htk.eng.cam.ac.uk/download.shtml)
+### ![HTK](http://htk.eng.cam.ac.uk/download.shtml)
 ### Kaldi:
-##### https://github.com/kaldi-asr/kaldi
+* https://github.com/kaldi-asr/kaldi
