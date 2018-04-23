@@ -52,12 +52,14 @@ this is a treasure-house of speech
 * https://github.com/idiap/kaldi-ivector
  #### CSLT-Sparse-DNN-Toolkit
 * https://github.com/wyq730/CSLT-Sparse-DNN-Toolkit
+ #### featxtra
+* https://github.com/mvansegbroeck/featxtra
  #### kaldi 在线中文识别系统搭建
 * https://blog.csdn.net/shichaog/article/details/73655628
  #### Sphinx
 * https://cmusphinx.github.io/
 * https://github.com/cmusphinx
-* https://pypi.org/project/pocketsphinx/
+* https://github.com/cmusphinx/pocketsphinx
  #### OpenFst
 * http://www.openfst.org/twiki/bin/view/FST/WebHome
  #### MIT Spoken Language Systems
@@ -91,7 +93,7 @@ this is a treasure-house of speech
  #### apiai
 https://pypi.org/project/apiai/
  #### wit
-* https://pypi.org/project/wit/
+* https://github.com/wit-ai/pywit
  #### dejavu
 * https://github.com/worldveil/dejavu
  #### uSpeech
@@ -136,6 +138,7 @@ https://pypi.org/project/apiai/
 * https://github.com/mozilla/TTS
  #### Flite
 * http://www.speech.cs.cmu.edu/flite/
+* https://github.com/festvox/flite
  #### Speect
 * http://speect.sourceforge.net/
  #### Festival
@@ -168,46 +171,46 @@ https://pypi.org/project/apiai/
 * https://github.com/UFAL-DSG/alex
 
 ## <h2 id="5">前端</h2>
- ### <h3 id="5.2">open source library/toolbox</h3>
+ ### <h3 id="5.1">Speech Processing</h3>
  #### madmom
 * https://github.com/CPJKU/madmom
  #### pydub
 * https://github.com/jiaaro/pydub
- #### PortAudio
-* http://www.portaudio.com/
- #### audiolab
-* https://github.com/cournape/audiolab
- #### BTK
-http://distantspeechrecognition.sourceforge.net/
- #### HARK
-* https://www.hark.jp/wiki.cgi?page=HARK+Installation+Instructions
- #### openSMILE(Feature Extractor)
-* https://audeering.com/technology/opensmile/
- #### VOICEBOX
-* http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html
- #### featxtra
-* https://github.com/mvansegbroeck/featxtra
- #### Signal-Processing
-* https://github.com/mathEnthusaistCodes/Signal-Processing
  #### kapre: Keras Audio Preprocessors
 * https://github.com/keunwoochoi/kapre
+ #### BTK
+* http://distantspeechrecognition.sourceforge.net/
+ #### Signal-Processing
+* https://github.com/mathEnthusaistCodes/Signal-Processing
  #### pyroomacoustics
 * https://github.com/LCAV/pyroomacoustics
- #### audio-super-res
-* https://github.com/kuleshov/audio-super-res
  #### librosa
 * https://github.com/librosa/librosa
+ #### VOICEBOX
+* http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html
  #### Pitch Detection
 * http://note.sonots.com/SciSoftware/Pitch.html
  #### TFTB
 * http://tftb.nongnu.org/
- #### Digital Speech Decoder
-* https://github.com/szechyjs/dsd
- #### audacity.py
-* https://github.com/davidavdav/audacity.py
  #### maracas
 * https://github.com/jfsantos/maracas
-
+ ### <h3 id="5.2">Audio I/O</h3>
+ #### PortAudio
+* http://www.portaudio.com/
+ #### audiolab
+* https://github.com/cournape/audiolab
+ #### Digital Speech Decoder
+* https://github.com/szechyjs/dsd
+ #### audioread
+* https://github.com/beetbox/audioread
+ #### audacity.py
+* https://github.com/davidavdav/audacity.py
+ ### <h3 id="5.3">Source Separation</h3>
+ #### HARK
+* https://www.hark.jp/wiki.cgi?page=HARK+Installation+Instructions
+ ### <h3 id="5.4">Feature Extraction</h3>
+ #### openSMILE
+* https://audeering.com/technology/opensmile/
 
 
 ## <h2 id="6">资源</h2>
@@ -238,8 +241,10 @@ http://distantspeechrecognition.sourceforge.net/
 * http://personal.ee.surrey.ac.uk/Personal/W.Wang/codes.html
  #### Audacity
 * https://www.audacityteam.org/
+ #### beetbox
+* https://github.com/beetbox
 
-## <h3 id="7">资源</h3>
+## <h3 id="7">主页</h3>
  #### cmusphinx
 * https://github.com/cmusphinx
  #### CMU Language Technologies Institute
