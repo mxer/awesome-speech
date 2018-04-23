@@ -8,7 +8,7 @@ this is a treasure-house of speech
 ### ![HTK](http://htk.eng.cam.ac.uk/download.shtml)
 ### Kaldi:
 * https://github.com/kaldi-asr/kaldi
-#### Dan's DNN implementation:
+  #### Dan's DNN implementation:
 * http://kaldi-asr.org/doc/dnn2.html
-#### pytorch-kaldi
+  #### pytorch-kaldi
 * https://github.com/mravanelli/pytorch-kaldi/
