@@ -16,6 +16,7 @@ this is a treasure-house of speech
 * [pages](#5)
 
 ## <h2 id="1">语音识别</h2>
+### <h2 id="1.2">open source library/toolbox</h2>
 ### [HTK](http://htk.eng.cam.ac.uk/download.shtml)
 ### Kaldi:
 * https://github.com/kaldi-asr/kaldi
@@ -61,9 +62,9 @@ this is a treasure-house of speech
 ### Speech Recognition Grammar Specification
 * https://www.w3.org/TR/speech-grammar/
 
-##语音合成
+## 语音合成
 
-##前端
+## 前端
 ### BTK
 http://distantspeechrecognition.sourceforge.net/
 ### HARK
@@ -73,7 +74,7 @@ http://distantspeechrecognition.sourceforge.net/
 ### VOICEBOX
 * http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html
 
-##资源
+## 资源
 ### OpenSLR
 * http://www.openslr.org/
 ### List of speech recognition software
@@ -81,6 +82,6 @@ http://distantspeechrecognition.sourceforge.net/
 ### Sparse Representation & Dictionary Learning Algorithms with Applications in Denoising, Separation, Localisation and Tracking
 * http://personal.ee.surrey.ac.uk/Personal/W.Wang/codes.html
 
-##主页
+## 主页
 ### MIT Spoken Language Systems
 * https://groups.csail.mit.edu/sls/downloads/
