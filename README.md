@@ -234,6 +234,12 @@ https://pypi.org/project/apiai/
 * https://github.com/primaryobjects/voice-gender
 
 ## <h2 id="4">对话系统</h2>
+ ### <h3 id="4.1">pages</h3>
+ #### NTU
+* http://miulab.tw/
+* https://github.com/MiuLab
+* https://www.csie.ntu.edu.tw/~yvchen/publication.html
+ 
  ### <h3 id="4.2">open source library/toolbox</h3>
  #### PyDial
 * http://www.camdial.org/pydial/
@@ -291,6 +297,8 @@ https://pypi.org/project/apiai/
 * https://github.com/bmcfee/muda
  #### Efficient sample rate conversion in python
 * https://github.com/bmcfee/resampy
+ #### Smarc audio rate converter
+* http://audio-smarc.sourceforge.net/
 
  ### <h3 id="5.2">Audio I/O</h3>
  #### PortAudio
@@ -321,6 +329,8 @@ https://pypi.org/project/apiai/
 * https://github.com/Samsung/veles.sound_feature_extraction
  #### vamp-plugin-sdk
 * https://github.com/c4dm/vamp-plugin-sdk
+ #### Yaafe
+* http://yaafe.sourceforge.net/
  #### py_bank
 * https://github.com/wil-j-wil/py_bank
  #### AuditoryFilterbanks
@@ -391,6 +401,8 @@ https://pypi.org/project/apiai/
 * https://github.com/MattShannon?tab=repositories
  #### Keunwoo Choi
 * https://github.com/keunwoochoi?tab=repositories
+ #### ADASP
+* http://www.tsi.telecom-paristech.fr/aao/en/software-and-database/
 * https://github.com/edobashira/speech-language-processing
 * https://github.com/andabi?tab=repositories
 * https://code.soundsoftware.ac.uk/projects
@@ -399,6 +411,7 @@ https://pypi.org/project/apiai/
  #### DL for Computer Vision, Speech, and Language
 * http://llcao.net/cu-deeplearning17/resource.html
  #### 臺大數位語音處理概論
+* http://speech.ee.ntu.edu.tw/courses.html
 * http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S204
  #### IISc Speech Information Processing
 * http://www.ee.iisc.ac.in/new/people/faculty/prasantg/e9261_speech_jan2018.html
@@ -407,6 +420,7 @@ https://pypi.org/project/apiai/
  ### <h3 id="6.3">paper</h3>
 * https://arxiv.org/search/?query=speech&searchtype=all&source=header
 * http://www.merl.com/publications/
+* https://www.isca-speech.org/iscaweb/index.php/archive/online-archive
 * https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
 
 
@@ -417,6 +431,8 @@ https://pypi.org/project/apiai/
 * https://github.com/cmusphinx
  #### CMU Language Technologies Institute
 * https://www.lti.cs.cmu.edu/work
+ #### CMU SPEECH@SV
+* http://speech.sv.cmu.edu/publications.html
  #### MIT Spoken Language Systems
 * https://groups.csail.mit.edu/sls/downloads/
  #### Brno University of Technology Speech Processing Group
@@ -425,6 +441,8 @@ https://pypi.org/project/apiai/
 * http://leap.ee.iisc.ac.in/publications/
  #### IISc
 * https://spire.ee.iisc.ac.in/spire/allPublications.php
+ #### Karen Livescu
+* http://ttic.uchicago.edu/~klivescu/
  #### Adrien Ycart
 * http://www.eecs.qmul.ac.uk/~ay304/code.html
  #### Ron Weiss 
