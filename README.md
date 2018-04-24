@@ -117,7 +117,10 @@ https://pypi.org/project/apiai/
  #### dragonfly
 * https://github.com/t4ngo/dragonfly
  #### SPTK
+* https://github.com/r9y9/SPTK
 * http://sp-tk.sourceforge.net/
+ #### pysptk
+* https://github.com/r9y9/pysptk
  #### Speech Recognition Grammar Specification
 * https://www.w3.org/TR/speech-grammar/
  #### Automatic_Speech_Recognition
@@ -136,6 +139,8 @@ https://pypi.org/project/apiai/
 * https://github.com/igormq/ctc_tensorflow_example
  #### speechT
 * https://github.com/timediv/speechT
+ #### DTW (Dynamic Time Warping) python module
+* https://github.com/pierre-rouanet/dtw
 
  ### <h3 id="1.3">dataset</h3>
  #### The CMU Pronouncing Dictionary
@@ -151,6 +156,8 @@ https://pypi.org/project/apiai/
  #### HTS
 * http://hts.sp.nitech.ac.jp/
 * http://hts-engine.sourceforge.net/
+* https://github.com/shamidreza/HTS-demo_CMU-ARCTIC-SLT-Formant
+* https://github.com/MattShannon/HTS-demo_CMU-ARCTIC-SLT-STRAIGHT-AR-decision-tree
  #### Tacotron
 * https://github.com/Kyubyong/tacotron
 * https://github.com/Kyubyong/expressive_tacotron
@@ -181,6 +188,10 @@ https://pypi.org/project/apiai/
 * https://github.com/r9y9/nnmnkwii
  #### Ossian
 * https://github.com/CSTR-Edinburgh/Ossian
+ #### supercollider
+* https://github.com/supercollider/supercollider
+ #### sc3-plugins
+* https://github.com/supercollider/sc3-plugins
  #### Neural_Network_Voices
 * https://github.com/llSourcell/Neural_Network_Voices
  #### pggan-pytorch
@@ -197,8 +208,6 @@ https://pypi.org/project/apiai/
 * https://github.com/santi-pdp/musa_tts
  #### marytts(JAVA)
 * https://github.com/marytts/marytts
- #### deep-voice-conversion
-* https://github.com/andabi/deep-voice-conversion
 
 
 ## <h2 id="3">声纹识别</h2>
@@ -236,10 +245,17 @@ https://pypi.org/project/apiai/
 * https://github.com/LCAV/pyroomacoustics
  #### librosa
 * https://github.com/librosa/librosa
+* https://github.com/librosa/librosa_gallery
  #### VOICEBOX
 * http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html
+ #### liquid-dsp
+* https://github.com/jgaeddert/liquid-dsp
+ #### ffts
+*https://github.com/anthonix/ffts
  #### mir_eval
 * https://github.com/craffel/mir_eval
+ #### aupyom
+* https://github.com/pierre-rouanet/aupyom
  #### Pitch Detection
 * http://note.sonots.com/SciSoftware/Pitch.html
  #### TFTB
@@ -256,6 +272,8 @@ https://pypi.org/project/apiai/
 * https://github.com/xiph/rnnoise
  #### muda
 * https://github.com/bmcfee/muda
+ #### Efficient sample rate conversion in python
+* https://github.com/bmcfee/resampy
 
  ### <h3 id="5.2">Audio I/O</h3>
  #### PortAudio
@@ -282,6 +300,8 @@ https://pypi.org/project/apiai/
 * https://audeering.com/technology/opensmile/
  #### veles.sound_feature_extraction
 * https://github.com/Samsung/veles.sound_feature_extraction
+ #### vamp-plugin-sdk
+* https://github.com/c4dm/vamp-plugin-sdk
  #### py_bank
 * https://github.com/wil-j-wil/py_bank
  #### AuditoryFilterbanks
@@ -300,6 +320,8 @@ https://pypi.org/project/apiai/
 * https://en.wikipedia.org/wiki/List_of_speech_recognition_software
  #### VERBIO
 * http://www.verbio.com/webverbiotm/html/productes.php?id=2
+ #### timeview
+* https://github.com/lxkain/timeview
  #### Speech at CMU Web Page
 * http://www.speech.cs.cmu.edu/
  #### CMU Robust Speech Group
@@ -323,9 +345,27 @@ https://pypi.org/project/apiai/
 * https://www.audacityteam.org/
  #### beetbox
 * https://github.com/beetbox
-* https://github.com/andabi?tab=repositories
  #### CAQE
 * https://github.com/interactiveaudiolab/CAQE
+ #### Ryuichi Yamamoto
+* https://github.com/r9y9?tab=repositories
+ #### Kyubyong Park
+* https://github.com/Kyubyong?tab=repositories
+ #### Hideyuki Tachibana
+* https://github.com/tachi-hi?tab=repositories
+ #### Colin Raffel
+* https://github.com/craffel?tab=repositories
+ #### Paul Dixon
+* https://github.com/edobashira?tab=repositories
+ #### smacpy
+* https://github.com/danstowell/smacpy
+ #### c4dm
+* http://c4dm.eecs.qmul.ac.uk/software_data.html
+ #### Matt Shannon
+* https://github.com/MattShannon?tab=repositories
+* https://github.com/edobashira/speech-language-processing
+* https://github.com/andabi?tab=repositories
+* https://code.soundsoftware.ac.uk/projects
  
  ### <h3 id="6.3">paper</h3>
 * https://arxiv.org/search/?query=speech&searchtype=all&source=header
@@ -341,3 +381,5 @@ https://pypi.org/project/apiai/
 * https://groups.csail.mit.edu/sls/downloads/
  #### Brno University of Technology Speech Processing Group
 * http://speech.fit.vutbr.cz/software
+ #### Adrien Ycart
+* http://www.eecs.qmul.ac.uk/~ay304/code.html
