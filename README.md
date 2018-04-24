@@ -148,6 +148,12 @@ https://pypi.org/project/apiai/
  #### TIMIT
 * https://catalog.ldc.upenn.edu/LDC93S1
 
+ ### <h3 id="1.4">Tutorial</h3>
+ #### University of Edinburgh ASR2017-18
+* http://www.inf.ed.ac.uk/teaching/courses/asr/
+ #### NYU asr12
+* https://cs.nyu.edu/~mohri/asr12/
+
 
 ## <h2 id="2">语音合成</h2>
 ### <h3 id="2.2">open source library/toolbox</h3>
@@ -217,6 +223,9 @@ https://pypi.org/project/apiai/
  #### openVP
 * https://github.com/dake/openVP
 * https://github.com/swshon?tab=repositories
+ ### Gender recognition by voice and speech analysis
+* http://www.primaryobjects.com/2016/06/22/identifying-the-gender-of-a-voice-using-machine-learning/
+* https://github.com/primaryobjects/voice-gender
 
 ## <h2 id="4">对话系统</h3>
  ### <h2 id="4.2">open source library/toolbox</h3>
@@ -246,6 +255,8 @@ https://pypi.org/project/apiai/
  #### librosa
 * https://github.com/librosa/librosa
 * https://github.com/librosa/librosa_gallery
+ #### MSD_split_for_tagging
+* https://github.com/keunwoochoi/MSD_split_for_tagging
  #### VOICEBOX
 * http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html
  #### liquid-dsp
@@ -294,6 +305,8 @@ https://pypi.org/project/apiai/
 * https://github.com/posenhuang/deeplearningsourceseparation
  #### nussl
 * https://github.com/interactiveaudiolab/nussl
+ #### DNN for Music Source Separation in Tensorflow
+* https://andabi.github.io/music-source-separation/
 
  ### <h3 id="5.4">Feature Extraction</h3>
  #### openSMILE
@@ -306,6 +319,12 @@ https://pypi.org/project/apiai/
 * https://github.com/wil-j-wil/py_bank
  #### AuditoryFilterbanks
 * https://github.com/jfsantos/AuditoryFilterbanks
+
+ ### <h3 id="5.5">VAD</h3>
+ #### rVAD
+* http://kom.aau.dk/~zt/online/readme.htm
+ #### Aurora 2 VAD
+* http://kom.aau.dk/~zt/online/readme.htm
 
 
 ## <h2 id="6">资源</h2>
@@ -363,9 +382,18 @@ https://pypi.org/project/apiai/
 * http://c4dm.eecs.qmul.ac.uk/software_data.html
  #### Matt Shannon
 * https://github.com/MattShannon?tab=repositories
+ #### Keunwoo Choi
+* https://github.com/keunwoochoi?tab=repositories
 * https://github.com/edobashira/speech-language-processing
 * https://github.com/andabi?tab=repositories
 * https://code.soundsoftware.ac.uk/projects
+
+ ### <h3 id=""6.2">tutorial</h3>
+ #### DL for Computer Vision, Speech, and Language
+* http://llcao.net/cu-deeplearning17/resource.html
+ #### 臺大數位語音處理概論
+* http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S204
+* http://www.practicalcryptography.com/miscellaneous/machine-learning/
  
  ### <h3 id="6.3">paper</h3>
 * https://arxiv.org/search/?query=speech&searchtype=all&source=header
@@ -383,3 +411,5 @@ https://pypi.org/project/apiai/
 * http://speech.fit.vutbr.cz/software
  #### Adrien Ycart
 * http://www.eecs.qmul.ac.uk/~ay304/code.html
+ #### Ron Weiss 
+* https://ronw.github.io//
