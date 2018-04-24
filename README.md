@@ -121,6 +121,8 @@ https://pypi.org/project/apiai/
 * http://sp-tk.sourceforge.net/
  #### pysptk
 * https://github.com/r9y9/pysptk
+ #### Praat
+* http://www.fon.hum.uva.nl/praat/
  #### Speech Recognition Grammar Specification
 * https://www.w3.org/TR/speech-grammar/
  #### Automatic_Speech_Recognition
@@ -153,6 +155,8 @@ https://pypi.org/project/apiai/
 * http://www.inf.ed.ac.uk/teaching/courses/asr/
  #### NYU asr12
 * https://cs.nyu.edu/~mohri/asr12/
+ #### Speech Recognition with Neural Networks
+* http://andrew.gibiansky.com/blog/machine-learning/speech-recognition-neural-networks/
 
 
 ## <h2 id="2">语音合成</h2>
@@ -218,6 +222,8 @@ https://pypi.org/project/apiai/
 
 ## <h2 id="3">声纹识别</h2>
  ### <h3 id="3.2">open source library/toolbox</h3>
+ #### Alize
+* http://mistral.univ-avignon.fr/
  #### speaker-recognition-py3
 * https://github.com/crouchred/speaker-recognition-py3
  #### openVP
@@ -262,7 +268,7 @@ https://pypi.org/project/apiai/
  #### liquid-dsp
 * https://github.com/jgaeddert/liquid-dsp
  #### ffts
-*https://github.com/anthonix/ffts
+* https://github.com/anthonix/ffts
  #### mir_eval
 * https://github.com/craffel/mir_eval
  #### aupyom
@@ -358,6 +364,7 @@ https://pypi.org/project/apiai/
 * https://github.com/xiph
  #### Brno University of Technology Speech Processing Group
 * http://speech.fit.vutbr.cz/software
+* http://www.clsp.jhu.edu/~sriram/software/soft.html
  #### Sparse Representation & Dictionary Learning Algorithms with Applications in Denoising, Separation, Localisation and Tracking
 * http://personal.ee.surrey.ac.uk/Personal/W.Wang/codes.html
  #### Audacity
@@ -393,14 +400,19 @@ https://pypi.org/project/apiai/
 * http://llcao.net/cu-deeplearning17/resource.html
  #### 臺大數位語音處理概論
 * http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S204
+ #### IISc Speech Information Processing
+* http://www.ee.iisc.ac.in/new/people/faculty/prasantg/e9261_speech_jan2018.html
 * http://www.practicalcryptography.com/miscellaneous/machine-learning/
  
  ### <h3 id="6.3">paper</h3>
 * https://arxiv.org/search/?query=speech&searchtype=all&source=header
+* http://www.merl.com/publications/
 * https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
 
 
 ## <h2 id="7">主页</h2>
+ #### Dan Povey
+* http://www.danielpovey.com/publications.html
  #### cmusphinx
 * https://github.com/cmusphinx
  #### CMU Language Technologies Institute
@@ -409,6 +421,10 @@ https://pypi.org/project/apiai/
 * https://groups.csail.mit.edu/sls/downloads/
  #### Brno University of Technology Speech Processing Group
 * http://speech.fit.vutbr.cz/software
+ #### LEAP Laboratory
+* http://leap.ee.iisc.ac.in/publications/
+ #### IISc
+* https://spire.ee.iisc.ac.in/spire/allPublications.php
  #### Adrien Ycart
 * http://www.eecs.qmul.ac.uk/~ay304/code.html
  #### Ron Weiss 
