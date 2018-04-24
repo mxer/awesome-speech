@@ -149,6 +149,8 @@ https://pypi.org/project/apiai/
 * http://www.speech.cs.cmu.edu/cgi-bin/cmudict
  #### TIMIT
 * https://catalog.ldc.upenn.edu/LDC93S1
+ #### GlobalPhone Language Models
+* http://www.csl.uni-bremen.de/GlobalPhone/
 
  ### <h3 id="1.4">Tutorial</h3>
  #### University of Edinburgh ASR2017-18
@@ -160,7 +162,10 @@ https://pypi.org/project/apiai/
 
 
 ## <h2 id="2">语音合成</h2>
-### <h3 id="2.2">open source library/toolbox</h3>
+ ### <h3 id="2.1">page</h3>
+ #### CSTR-Edinburgh
+* https://github.com/CSTR-Edinburgh
+ ### <h3 id="2.2">open source library/toolbox</h3>
  #### WORLD
 * https://github.com/mmorise/World
  #### HTS
@@ -239,6 +244,8 @@ https://pypi.org/project/apiai/
 * http://miulab.tw/
 * https://github.com/MiuLab
 * https://www.csie.ntu.edu.tw/~yvchen/publication.html
+ #### Tsung-Hsien Wen
+* https://shawnwun.github.io/
  
  ### <h3 id="4.2">open source library/toolbox</h3>
  #### PyDial
@@ -321,6 +328,10 @@ https://pypi.org/project/apiai/
 * https://github.com/interactiveaudiolab/nussl
  #### DNN for Music Source Separation in Tensorflow
 * https://andabi.github.io/music-source-separation/
+ #### Alexey Ozerov
+* http://www.irisa.fr/metiss/ozerov/
+ #### University of Surrey CVSSP
+* https://github.com/CVSSP
 
  ### <h3 id="5.4">Feature Extraction</h3>
  #### openSMILE
@@ -341,6 +352,8 @@ https://pypi.org/project/apiai/
 * http://kom.aau.dk/~zt/online/readme.htm
  #### Aurora 2 VAD
 * http://kom.aau.dk/~zt/online/readme.htm
+ #### IsraelCohen
+* http://webee.technion.ac.il/people/IsraelCohen/Info/Software.html
 
 
 ## <h2 id="6">资源</h2>
@@ -370,10 +383,13 @@ https://pypi.org/project/apiai/
 * http://www.festvox.org/
  #### CSTR
 * http://www.cstr.ed.ac.uk/research/
+* http://www.cstr.ed.ac.uk/downloads/
  #### Xiph
 * https://github.com/xiph
  #### Brno University of Technology Speech Processing Group
 * http://speech.fit.vutbr.cz/software
+ #### Amirsina Torfi
+* https://github.com/astorfi?tab=repositories
 * http://www.clsp.jhu.edu/~sriram/software/soft.html
  #### Sparse Representation & Dictionary Learning Algorithms with Applications in Denoising, Separation, Localisation and Tracking
 * http://personal.ee.surrey.ac.uk/Personal/W.Wang/codes.html
@@ -403,6 +419,13 @@ https://pypi.org/project/apiai/
 * https://github.com/keunwoochoi?tab=repositories
  #### ADASP
 * http://www.tsi.telecom-paristech.fr/aao/en/software-and-database/
+ #### uchicago Speech and Language @ TTIC
+* http://ttic.uchicago.edu/~klivescu/SLATTIC/resources.htm
+ #### justin salamon
+* http://www.justinsalamon.com/codedata.html
+ #### COLEA
+* http://ecs.utdallas.edu/loizou/speech/colea.htm
+
 * https://github.com/edobashira/speech-language-processing
 * https://github.com/andabi?tab=repositories
 * https://code.soundsoftware.ac.uk/projects
@@ -441,9 +464,33 @@ https://pypi.org/project/apiai/
 * http://leap.ee.iisc.ac.in/publications/
  #### IISc
 * https://spire.ee.iisc.ac.in/spire/allPublications.php
+ #### uchicago Speech and Language @ TTIC
+* http://ttic.uchicago.edu/~klivescu/SLATTIC/resources.htm
  #### Karen Livescu
 * http://ttic.uchicago.edu/~klivescu/
  #### Adrien Ycart
 * http://www.eecs.qmul.ac.uk/~ay304/code.html
  #### Ron Weiss 
 * https://ronw.github.io//
+ #### Yajie Miao
+* https://www.cs.cmu.edu/~ymiao/
+ #### Scott T Wisdom
+* https://sites.google.com/site/scottwisdomhomepage/publications
+ #### Alan W Black
+* https://www.cs.cmu.edu/~awb/
+ #### Amirsina Torfi
+* https://www.amirsinatorfi.com/publications
+ #### Liang Lu
+* http://ttic.uchicago.edu/~llu/
+ #### Zhizheng WU
+* http://www.zhizheng.org/
+ #### justin salamon
+* http://www.justinsalamon.com/codedata.html
+ #### Keith Vertanen
+* http://www.keithv.com/software/
+ #### Aviv Gabbay
+* http://www.cs.huji.ac.il/~avivga/
+ #### Mehryar Mohri
+* https://cs.nyu.edu/~mohri/
+ #### DeepSound
+* http://deepsound.io/
