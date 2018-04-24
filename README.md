@@ -4,22 +4,22 @@ this is a treasure-house of speech
 ## 目录
 * [语音识别（ASR,STT）](#1)
   * [page](#1.1)
-  * [open source library/toolbox](#1.2)
+  * [open source library/toolbox/code](#1.2)
   * [corpus/dataset](#1.3)
   * [教程（Tutorial）](#1.4)
 * [语音合成（Speech Synthesis,TTS）](#2)
   * [page](#2.1)
-  * [open source library/toolbox](#2.2)
+  * [open source library/toolbox/code](#2.2)
   * [corpus/dataset](#2.3)
   * [教程（Tutorial）](#2.4)
 * [声纹识别（Speaker Recognition）](#3)
   * [page](#3.1)
-  * [open source library/toolbox](#3.2)
+  * [open source library/toolbox/code](#3.2)
   * [corpus/dataset](#3.3)
   * [教程（Tutorial）](#3.4)
 * [对话系统（Dialogue Systems）](#4)
   * [page](#4.1)
-  * [open source library/toolbox](#4.2)
+  * [open source library/toolbox/code](#4.2)
   * [corpus/dataset](#4.3)
   * [教程（Tutorial）](#4.4)
 * [前端（front end）](#5)
@@ -28,10 +28,12 @@ this is a treasure-house of speech
   * [Source Separation](#5.3)
   * [Feature Extraction](#5.4)
 * [resource](#6)
+  * [Tutorial](#6.1)
+  * [paper](#6.2)
 * [pages](#7)
 
 ## <h2 id="1">语音识别</h2>
- ### <h3 id="1.2">open source library/toolbox</h3>
+ ### <h3 id="1.2">open source library/toolbox/code</h3>
  #### HTK
 * http://htk.eng.cam.ac.uk/download.shtml)
  #### Kaldi:
@@ -76,6 +78,8 @@ this is a treasure-house of speech
 * https://github.com/njsmith/pysrilm
  #### ISIP
 * https://www.isip.piconepress.com/projects/speech/
+ #### VoxForge
+* http://www.voxforge.org/home
  #### MIT Finite-State Transducer (FST) Toolkit
 * http://groups.csail.mit.edu/sls/downloads/
  #### MIT Language Modeling (MITLM) Toolkit
@@ -116,6 +120,10 @@ https://pypi.org/project/apiai/
 * https://github.com/llSourcell/tensorflow_speech_recognition_demo
  #### AVSR-Deep-Speech
 * https://github.com/pandeydivesh15/AVSR-Deep-Speech
+
+ ### <h3 id="1.3">dataset</h3>
+ #### The CMU Pronouncing Dictionary
+* http://www.speech.cs.cmu.edu/cgi-bin/cmudict
 
 
 ## <h2 id="2">语音合成</h2>
@@ -158,6 +166,7 @@ https://pypi.org/project/apiai/
  #### marytts(JAVA)
 * https://github.com/marytts/marytts
 
+
 ## <h2 id="3">声纹识别</h2>
  ### <h3 id="3.2">open source library/toolbox</h3>
  #### speaker-recognition-py3
@@ -194,6 +203,7 @@ https://pypi.org/project/apiai/
 * http://tftb.nongnu.org/
  #### maracas
 * https://github.com/jfsantos/maracas
+
  ### <h3 id="5.2">Audio I/O</h3>
  #### PortAudio
 * http://www.portaudio.com/
@@ -205,9 +215,11 @@ https://pypi.org/project/apiai/
 * https://github.com/beetbox/audioread
  #### audacity.py
 * https://github.com/davidavdav/audacity.py
+
  ### <h3 id="5.3">Source Separation</h3>
  #### HARK
 * https://www.hark.jp/wiki.cgi?page=HARK+Installation+Instructions
+
  ### <h3 id="5.4">Feature Extraction</h3>
  #### openSMILE
 * https://audeering.com/technology/opensmile/
