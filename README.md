@@ -25,11 +25,13 @@ this is a treasure-house of speech
 * [前端（front end）](#5)
   * [Speech Processing](#5.1)
   * [Audio I/O](#5.2)
-  * [Source Separation](#5.3)
+  * [Sound Source Separation](#5.3)
   * [Feature Extraction](#5.4)
+  * [VAD](#5.5)
 * [resource](#6)
-  * [Tutorial](#6.1)
-  * [paper](#6.2)
+  * [code/tool/data](#6.1)
+  * [Tutorial](#6.2)
+  * [paper](#6.3)
 * [pages](#7)
 
 ## <h2 id="1">语音识别</h2>
@@ -52,12 +54,14 @@ this is a treasure-house of speech
 * https://github.com/yajiemiao/kaldipdnn
  #### kaldi-ivector
 * https://github.com/idiap/kaldi-ivector
+ #### tfkaldi
+* https://github.com/vrenkens/tfkaldi
+ #### kaldi 在线中文识别系统搭建
+* https://blog.csdn.net/shichaog/article/details/73655628
  #### CSLT-Sparse-DNN-Toolkit
 * https://github.com/wyq730/CSLT-Sparse-DNN-Toolkit
  #### featxtra
 * https://github.com/mvansegbroeck/featxtra
- #### kaldi 在线中文识别系统搭建
-* https://blog.csdn.net/shichaog/article/details/73655628
  #### Sphinx
 * https://cmusphinx.github.io/
 * https://github.com/cmusphinx
@@ -86,6 +90,8 @@ this is a treasure-house of speech
 * http://groups.csail.mit.edu/sls/downloads/
  #### OpenGrm
 * http://www.openfst.org/twiki/bin/view/GRM/WebHome
+ #### RNNLM
+* http://www.fit.vutbr.cz/~imikolov/rnnlm/
  #### SpeechRecognition
 * https://github.com/Uberi/speech_recognition
  #### SpeechPy
@@ -98,6 +104,10 @@ this is a treasure-house of speech
 https://pypi.org/project/apiai/
  #### wit
 * https://github.com/wit-ai/pywit
+ #### Nabu
+* https://github.com/vrenkens/nabu
+ #### asr-study
+* https://github.com/igormq/asr-study
  #### dejavu
 * https://github.com/worldveil/dejavu
  #### uSpeech
@@ -120,10 +130,18 @@ https://pypi.org/project/apiai/
 * https://github.com/llSourcell/tensorflow_speech_recognition_demo
  #### AVSR-Deep-Speech
 * https://github.com/pandeydivesh15/AVSR-Deep-Speech
+ #### TTS and ASR
+* https://github.com/roboticslab-uc3m/speech
+ #### CTC + Tensorflow Example for ASR
+* https://github.com/igormq/ctc_tensorflow_example
+ #### speechT
+* https://github.com/timediv/speechT
 
  ### <h3 id="1.3">dataset</h3>
  #### The CMU Pronouncing Dictionary
 * http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+ #### TIMIT
+* https://catalog.ldc.upenn.edu/LDC93S1
 
 
 ## <h2 id="2">语音合成</h2>
@@ -133,6 +151,12 @@ https://pypi.org/project/apiai/
  #### HTS
 * http://hts.sp.nitech.ac.jp/
 * http://hts-engine.sourceforge.net/
+ #### Tacotron
+* https://github.com/Kyubyong/tacotron
+* https://github.com/Kyubyong/expressive_tacotron
+* https://github.com/keithito/tacotron
+* https://github.com/GSByeon/multi-speaker-tacotron-tensorflow
+* https://github.com/r9y9/tacotron_pytorch
  #### Tacotron2
 * https://github.com/riverphoenix/tacotron2
 * https://github.com/A-Jacobson/tacotron2
@@ -163,21 +187,38 @@ https://pypi.org/project/apiai/
 * https://github.com/deepsound-project/pggan-pytorch
  #### cainteoir-engine
 * https://github.com/rhdunn/cainteoir-engine
+ #### loop
+* https://github.com/facebookresearch/loop
+ #### nnmnkwii
+* https://github.com/r9y9/nnmnkwii
+ #### TTS and ASR
+* https://github.com/roboticslab-uc3m/speech
+ #### musa_tts
+* https://github.com/santi-pdp/musa_tts
  #### marytts(JAVA)
 * https://github.com/marytts/marytts
+ #### deep-voice-conversion
+* https://github.com/andabi/deep-voice-conversion
 
 
 ## <h2 id="3">声纹识别</h2>
  ### <h3 id="3.2">open source library/toolbox</h3>
  #### speaker-recognition-py3
 * https://github.com/crouchred/speaker-recognition-py3
+ #### openVP
+* https://github.com/dake/openVP
+* https://github.com/swshon?tab=repositories
 
 ## <h2 id="4">对话系统</h3>
  ### <h2 id="4.2">open source library/toolbox</h3>
-  #### PyDial
+ #### PyDial
 * http://www.camdial.org/pydial/
-  #### alex
+ #### alex
 * https://github.com/UFAL-DSG/alex
+ #### ROS 语音交互系统
+* https://github.com/hntea/ros-speech
+ #### 结合ROS框架的中文语音交互系统 
+* https://github.com/hntea/speech-system-zh
 
 ## <h2 id="5">前端</h2>
  ### <h3 id="5.1">Speech Processing</h3>
@@ -197,12 +238,24 @@ https://pypi.org/project/apiai/
 * https://github.com/librosa/librosa
  #### VOICEBOX
 * http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html
+ #### mir_eval
+* https://github.com/craffel/mir_eval
  #### Pitch Detection
 * http://note.sonots.com/SciSoftware/Pitch.html
  #### TFTB
 * http://tftb.nongnu.org/
  #### maracas
 * https://github.com/jfsantos/maracas
+ #### SRMRpy
+* https://github.com/jfsantos/SRMRpy
+ #### Audio super resolution using NN
+* https://github.com/kuleshov/audio-super-res
+ #### RNN training for noise reduction in robust asr
+* https://github.com/amaas/rnn-speech-denoising
+ #### RNN for audio noise reduction
+* https://github.com/xiph/rnnoise
+ #### muda
+* https://github.com/bmcfee/muda
 
  ### <h3 id="5.2">Audio I/O</h3>
  #### PortAudio
@@ -216,16 +269,27 @@ https://pypi.org/project/apiai/
  #### audacity.py
 * https://github.com/davidavdav/audacity.py
 
- ### <h3 id="5.3">Source Separation</h3>
+ ### <h3 id="5.3">Sound Source Separation</h3>
  #### HARK
 * https://www.hark.jp/wiki.cgi?page=HARK+Installation+Instructions
+ #### Deep RNN for Source Separation
+* https://github.com/posenhuang/deeplearningsourceseparation
+ #### nussl
+* https://github.com/interactiveaudiolab/nussl
 
  ### <h3 id="5.4">Feature Extraction</h3>
  #### openSMILE
 * https://audeering.com/technology/opensmile/
+ #### veles.sound_feature_extraction
+* https://github.com/Samsung/veles.sound_feature_extraction
+ #### py_bank
+* https://github.com/wil-j-wil/py_bank
+ #### AuditoryFilterbanks
+* https://github.com/jfsantos/AuditoryFilterbanks
 
 
 ## <h2 id="6">资源</h2>
+ ###<h3 id="6.1">code/tool/data</h3>
  ### cmusphinx
 * https://github.com/cmusphinx
  #### julius-speech
@@ -249,17 +313,31 @@ https://pypi.org/project/apiai/
 * http://www.festvox.org/
  #### CSTR
 * http://www.cstr.ed.ac.uk/research/
+ #### Xiph
+* https://github.com/xiph
+ #### Brno University of Technology Speech Processing Group
+* http://speech.fit.vutbr.cz/software
  #### Sparse Representation & Dictionary Learning Algorithms with Applications in Denoising, Separation, Localisation and Tracking
 * http://personal.ee.surrey.ac.uk/Personal/W.Wang/codes.html
  #### Audacity
 * https://www.audacityteam.org/
  #### beetbox
 * https://github.com/beetbox
+* https://github.com/andabi?tab=repositories
+ #### CAQE
+* https://github.com/interactiveaudiolab/CAQE
+ 
+ ### <h3 id="6.3">paper</h3>
+* https://arxiv.org/search/?query=speech&searchtype=all&source=header
+* https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
 
-## <h3 id="7">主页</h3>
+
+## <h2 id="7">主页</h2>
  #### cmusphinx
 * https://github.com/cmusphinx
  #### CMU Language Technologies Institute
 * https://www.lti.cs.cmu.edu/work
  #### MIT Spoken Language Systems
 * https://groups.csail.mit.edu/sls/downloads/
+ #### Brno University of Technology Speech Processing Group
+* http://speech.fit.vutbr.cz/software
