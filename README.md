@@ -79,7 +79,10 @@ this is a treasure-house of speech
 * https://simon.kde.org/
  #### SRILM
 * https://www.sri.com/engage/products-solutions/sri-language-modeling-toolkit
+* http://www.speech.sri.com/projects/srilm/
 * https://github.com/njsmith/pysrilm
+ #### awd-lstm-lm
+* https://github.com/salesforce/awd-lstm-lm
  #### ISIP
 * https://www.isip.piconepress.com/projects/speech/
  #### VoxForge
@@ -92,6 +95,8 @@ this is a treasure-house of speech
 * http://www.openfst.org/twiki/bin/view/GRM/WebHome
  #### RNNLM
 * http://www.fit.vutbr.cz/~imikolov/rnnlm/
+ #### faster-rnnlm
+* https://github.com/yandex/faster-rnnlm
  #### SpeechRecognition
 * https://github.com/Uberi/speech_recognition
  #### SpeechPy
@@ -151,6 +156,9 @@ https://pypi.org/project/apiai/
 * https://catalog.ldc.upenn.edu/LDC93S1
  #### GlobalPhone Language Models
 * http://www.csl.uni-bremen.de/GlobalPhone/
+ #### 1 Billion Word Language Model Benchmark
+* https://github.com/ciprian-chelba/1-billion-word-language-modeling-benchmark
+* http://www.statmt.org/lm-benchmark/
 
  ### <h3 id="1.4">Tutorial</h3>
  #### University of Edinburgh ASR2017-18
@@ -425,6 +433,11 @@ https://pypi.org/project/apiai/
 * http://www.justinsalamon.com/codedata.html
  #### COLEA
 * http://ecs.utdallas.edu/loizou/speech/colea.htm
+ #### Praat
+* http://www.fon.hum.uva.nl/praat/
+* https://github.com/timmahrt/praatIO
+ #### timmahrt
+* https://github.com/timmahrt?tab=repositories
 
 * https://github.com/edobashira/speech-language-processing
 * https://github.com/andabi?tab=repositories
@@ -494,3 +507,4 @@ https://pypi.org/project/apiai/
 * https://cs.nyu.edu/~mohri/
  #### DeepSound
 * http://deepsound.io/
+
