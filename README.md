@@ -443,7 +443,7 @@ https://pypi.org/project/apiai/
 * https://github.com/andabi?tab=repositories
 * https://code.soundsoftware.ac.uk/projects
 
- ### <h3 id=""6.2">tutorial</h3>
+ ### <h3 id="6.2">tutorial</h3>
  #### DL for Computer Vision, Speech, and Language
 * http://llcao.net/cu-deeplearning17/resource.html
  #### 臺大數位語音處理概論
