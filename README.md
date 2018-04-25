@@ -481,6 +481,8 @@ https://pypi.org/project/apiai/
 * https://spire.ee.iisc.ac.in/spire/allPublications.php
  #### uchicago Speech and Language @ TTIC
 * http://ttic.uchicago.edu/~klivescu/SLATTIC/resources.htm
+ #### Hainan Xu
+* https://www.cs.jhu.edu/~hxu/
  #### Karen Livescu
 * http://ttic.uchicago.edu/~klivescu/
  #### Adrien Ycart
