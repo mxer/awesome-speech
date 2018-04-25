@@ -130,6 +130,8 @@ https://pypi.org/project/apiai/
 * http://sp-tk.sourceforge.net/
  #### pysptk
 * https://github.com/r9y9/pysptk
+ #### RWTH ASR
+* https://www-i6.informatik.rwth-aachen.de/rwth-asr/
  #### Praat
 * http://www.fon.hum.uva.nl/praat/
  #### Speech Recognition Grammar Specification
@@ -485,6 +487,8 @@ https://pypi.org/project/apiai/
 * https://spire.ee.iisc.ac.in/spire/allPublications.php
  #### uchicago Speech and Language @ TTIC
 * http://ttic.uchicago.edu/~klivescu/SLATTIC/resources.htm
+ #### RWTH Aachen University
+* https://www-i6.informatik.rwth-aachen.de/web/Software/index.html
  #### Hainan Xu
 * https://www.cs.jhu.edu/~hxu/
  #### Karen Livescu
