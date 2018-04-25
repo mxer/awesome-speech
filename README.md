@@ -455,8 +455,8 @@ https://pypi.org/project/apiai/
  
  ### <h3 id="6.3">paper</h3>
 * https://arxiv.org/search/?query=speech&searchtype=all&source=header
-* http://www.merl.com/publications/
 * https://www.isca-speech.org/iscaweb/index.php/archive/online-archive
+* https://www.aclweb.org/anthology/
 * https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
 
 
@@ -469,6 +469,8 @@ https://pypi.org/project/apiai/
 * https://www.lti.cs.cmu.edu/work
  #### CMU SPEECH@SV
 * http://speech.sv.cmu.edu/publications.html
+ #### Mitsubishi Electric Research Laboratorie
+* http://www.merl.com/publications/
  #### MIT Spoken Language Systems
 * https://groups.csail.mit.edu/sls/downloads/
  #### Brno University of Technology Speech Processing Group
