@@ -99,6 +99,8 @@ this is a treasure-house of speech
 * https://github.com/yandex/faster-rnnlm
  #### CUED-RNNLM Toolkit
 * http://mi.eng.cam.ac.uk/projects/cued-rnnlm/
+ #### rwthlm
+* https://www-i6.informatik.rwth-aachen.de/web/Software/rwthlm.php
  #### SpeechRecognition
 * https://github.com/Uberi/speech_recognition
  #### SpeechPy
