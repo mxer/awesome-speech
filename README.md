@@ -162,6 +162,8 @@ https://pypi.org/project/apiai/
 * https://dinantdatascientist.blogspot.dk/2018/02/kaggle-tensorflow-speech-recognition.html
 
  ### <h3 id="1.3">dataset</h3>
+ #### ASR Audio Data Links
+* https://github.com/robmsmt/ASR_Audio_Data_Links
  #### The CMU Pronouncing Dictionary
 * http://www.speech.cs.cmu.edu/cgi-bin/cmudict
  #### TIMIT
