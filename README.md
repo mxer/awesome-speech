@@ -41,6 +41,7 @@ this is a treasure-house of speech
  #### Kaldi:
 * https://github.com/kaldi-asr/kaldi
  #### py-kaldi-asr
+* https://github.com/pykaldi/pykaldi
 * https://github.com/gooofy/py-kaldi-asr
  #### Dan's DNN implementation:
 * http://kaldi-asr.org/doc/dnn2.html
@@ -56,6 +57,14 @@ this is a treasure-house of speech
 * https://github.com/idiap/kaldi-ivector
  #### tfkaldi
 * https://github.com/vrenkens/tfkaldi
+ #### kaldi-yesno-tutorial
+* https://github.com/keighrim/kaldi-yesno-tutorial
+ #### FastCGI support for Kaldi ASR
+* https://github.com/dialogflow/asr-server
+ #### alignUsingKaldi
+* https://github.com/Sundy1219/alignUsingKaldi
+ #### kaldi-readers-for-tensorflow
+* https://github.com/t13m/kaldi-readers-for-tensorflow
  #### kaldi 在线中文识别系统搭建
 * https://blog.csdn.net/shichaog/article/details/73655628
  #### CSLT-Sparse-DNN-Toolkit
@@ -99,6 +108,8 @@ this is a treasure-house of speech
 * https://github.com/yandex/faster-rnnlm
  #### CUED-RNNLM Toolkit
 * http://mi.eng.cam.ac.uk/projects/cued-rnnlm/
+ #### Using RNNLM rescoring a sentence in Chinese ASR system
+* https://github.com/Sundy1219/RNNLM
  #### rwthlm
 * https://www-i6.informatik.rwth-aachen.de/web/Software/rwthlm.php
  #### SpeechRecognition
@@ -132,6 +143,8 @@ https://pypi.org/project/apiai/
 * https://github.com/r9y9/pysptk
  #### RWTH ASR
 * https://www-i6.informatik.rwth-aachen.de/rwth-asr/
+ #### Palaver
+* https://github.com/JamezQ/Palaver
  #### Praat
 * http://www.fon.hum.uva.nl/praat/
  #### Speech Recognition Grammar Specification
@@ -142,6 +155,8 @@ https://pypi.org/project/apiai/
 * https://github.com/buriburisuri/speech-to-text-wavenet
  #### tensorflow-speech-recognition
 * https://github.com/pannous/tensorflow-speech-recognition
+ #### tensorflow_end2end_speech_recognition
+* https://github.com/hirofumi0810/tensorflow_end2end_speech_recognition
  #### tensorflow_speech_recognition_demo
 * https://github.com/llSourcell/tensorflow_speech_recognition_demo
  #### AVSR-Deep-Speech
@@ -152,14 +167,33 @@ https://pypi.org/project/apiai/
 * https://github.com/igormq/ctc_tensorflow_example
  #### speechT
 * https://github.com/timediv/speechT
+ #### end2endASR
+* https://github.com/cdyangbo/end2endASR
  #### DTW (Dynamic Time Warping) python module
 * https://github.com/pierre-rouanet/dtw
  #### Various scripts and tools for speech recognition model building
 * https://github.com/gooofy/speech
+ #### 基于深度学习的语音识别系统，使用CNN、LSTM和CTC实现的中文语音识别系统
+* https://github.com/nl8590687/ASRT_SpeechRecognition
  #### tacotron_asr
 * https://github.com/Kyubyong/tacotron_asr
+ #### ASR_Keras
+* https://github.com/Chriskamphuis/ASR
  #### Kaggle Tensorflow Speech Recognition Challenge
 * https://dinantdatascientist.blogspot.dk/2018/02/kaggle-tensorflow-speech-recognition.html
+ #### Speech recognition script for Asterisk that uses google's speech engine
+* https://github.com/zaf/asterisk-speech-recog
+ #### Libraries and scripts for manipulating and handling ASR output/n-bests/etc
+* https://github.com/belambert/asr-tools
+ #### Some scripts and commands for working with ASR
+* https://github.com/JRMeyer/asr
+ #### PySpeechGrammar
+* https://github.com/ynop/pyspeechgrammar
+ #### Python module for evaluating ASR hypotheses
+* https://github.com/belambert/asr-evaluation
+ #### edit-distance
+* https://github.com/belambert/edit-distance
+
 
  ### <h3 id="1.3">dataset</h3>
  #### ASR Audio Data Links
@@ -168,6 +202,7 @@ https://pypi.org/project/apiai/
 * http://www.speech.cs.cmu.edu/cgi-bin/cmudict
  #### TIMIT
 * https://catalog.ldc.upenn.edu/LDC93S1
+* https://github.com/syhw/timit_tools
  #### GlobalPhone Language Models
 * http://www.csl.uni-bremen.de/GlobalPhone/
  #### 1 Billion Word Language Model Benchmark
@@ -317,6 +352,8 @@ https://pypi.org/project/apiai/
 * https://github.com/jfsantos/maracas
  #### SRMRpy
 * https://github.com/jfsantos/SRMRpy
+ #### asr_preprocessing
+* https://github.com/hirofumi0810/asr_preprocessing
  #### Audio super resolution using NN
 * https://github.com/kuleshov/audio-super-res
  #### RNN training for noise reduction in robust asr
@@ -329,6 +366,8 @@ https://pypi.org/project/apiai/
 * https://github.com/bmcfee/resampy
  #### Smarc audio rate converter
 * http://audio-smarc.sourceforge.net/
+ #### Python scripts to computes f0s of a wave file
+* https://github.com/t13m/pyPitchCom
 
  ### <h3 id="5.2">Audio I/O</h3>
  #### PortAudio
@@ -355,6 +394,8 @@ https://pypi.org/project/apiai/
 * http://www.irisa.fr/metiss/ozerov/
  #### University of Surrey CVSSP
 * https://github.com/CVSSP
+ #### source separation using CNN
+* https://github.com/emma-mens/ASR
 
  ### <h3 id="5.4">Feature Extraction</h3>
  #### openSMILE
@@ -369,8 +410,15 @@ https://pypi.org/project/apiai/
 * https://github.com/wil-j-wil/py_bank
  #### AuditoryFilterbanks
 * https://github.com/jfsantos/AuditoryFilterbanks
+ #### python_speech_features
+* https://github.com/jameslyons/python_speech_features
 
  ### <h3 id="5.5">VAD</h3>
+* https://github.com/jtkim-kaist/VAD
+* https://github.com/jtkim-kaist/VAD_DNN
+* https://github.com/marsbroshok/VAD-python
+* https://github.com/shiweixingcn/vad
+* https://github.com/fedden/RenderMan
  #### rVAD
 * http://kom.aau.dk/~zt/online/readme.htm
  #### Aurora 2 VAD
@@ -453,6 +501,10 @@ https://pypi.org/project/apiai/
 * https://github.com/timmahrt/praatIO
  #### timmahrt
 * https://github.com/timmahrt?tab=repositories
+ #### Lefteris Zafiris
+* https://github.com/zaf?tab=repositories
+ #### audio-to-audio and audio-to-midi alignment
+* https://github.com/cataska/scorealign
 
 * https://github.com/edobashira/speech-language-processing
 * https://github.com/andabi?tab=repositories
@@ -473,6 +525,8 @@ https://pypi.org/project/apiai/
 * https://www.isca-speech.org/iscaweb/index.php/archive/online-archive
 * https://www.aclweb.org/anthology/
 * https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
+ #### states of the arts and recent results (bibliography) on speech recognition
+* https://github.com/syhw/wer_are_we
 
 
 ## <h2 id="7">主页</h2>
