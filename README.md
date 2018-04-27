@@ -154,6 +154,8 @@ https://pypi.org/project/apiai/
 * https://github.com/timediv/speechT
  #### DTW (Dynamic Time Warping) python module
 * https://github.com/pierre-rouanet/dtw
+ #### Various scripts and tools for speech recognition model building
+* https://github.com/gooofy/speech
 
  ### <h3 id="1.3">dataset</h3>
  #### The CMU Pronouncing Dictionary
