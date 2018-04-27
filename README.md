@@ -156,6 +156,10 @@ https://pypi.org/project/apiai/
 * https://github.com/pierre-rouanet/dtw
  #### Various scripts and tools for speech recognition model building
 * https://github.com/gooofy/speech
+ #### tacotron_asr
+* https://github.com/Kyubyong/tacotron_asr
+ #### Kaggle Tensorflow Speech Recognition Challenge
+* https://dinantdatascientist.blogspot.dk/2018/02/kaggle-tensorflow-speech-recognition.html
 
  ### <h3 id="1.3">dataset</h3>
  #### The CMU Pronouncing Dictionary
@@ -215,6 +219,7 @@ https://pypi.org/project/apiai/
 * https://github.com/festvox/festival
  #### eSpeak
 * http://espeak.sourceforge.net/
+* https://github.com/gooofy/py-espeak-ng
  #### nnmnkwii
 * https://github.com/r9y9/nnmnkwii
  #### Ossian
