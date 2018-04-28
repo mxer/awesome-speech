@@ -552,6 +552,8 @@ https://pypi.org/project/apiai/
 * http://ttic.uchicago.edu/~klivescu/SLATTIC/resources.htm
  #### RWTH Aachen University
 * https://www-i6.informatik.rwth-aachen.de/web/Software/index.html
+ #### Ohio State University speech separation
+* http://web.cse.ohio-state.edu/pnl/software.html
  #### Hainan Xu
 * https://www.cs.jhu.edu/~hxu/
  #### Karen Livescu
