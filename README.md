@@ -59,6 +59,8 @@ this is a treasure-house of speech
 * https://github.com/vrenkens/tfkaldi
  #### kaldi-yesno-tutorial
 * https://github.com/keighrim/kaldi-yesno-tutorial
+ #### Adapting your own Language Model for Kaldi
+* https://github.com/srvk/lm_build
  #### FastCGI support for Kaldi ASR
 * https://github.com/dialogflow/asr-server
  #### alignUsingKaldi
@@ -461,6 +463,8 @@ https://pypi.org/project/apiai/
 * http://speech.fit.vutbr.cz/software
  #### Amirsina Torfi
 * https://github.com/astorfi?tab=repositories
+ #### The Speech Recognition Virtual Kitchen
+* https://github.com/srvk
 * http://www.clsp.jhu.edu/~sriram/software/soft.html
  #### Sparse Representation & Dictionary Learning Algorithms with Applications in Denoising, Separation, Localisation and Tracking
 * http://personal.ee.surrey.ac.uk/Personal/W.Wang/codes.html
