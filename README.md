@@ -106,6 +106,7 @@ this is a treasure-house of speech
 * http://www.openfst.org/twiki/bin/view/GRM/WebHome
  #### RNNLM
 * http://www.fit.vutbr.cz/~imikolov/rnnlm/
+* https://github.com/IntelLabs/rnnlm
  #### faster-rnnlm
 * https://github.com/yandex/faster-rnnlm
  #### CUED-RNNLM Toolkit
