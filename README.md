@@ -35,6 +35,10 @@ this is a treasure-house of speech
 * [pages](#7)
 
 ## <h2 id="1">语音识别</h2>
+ ### <h3 id="1.1">page</h3>
+ #### Xingyu Na
+* http://naxingyu.github.io/
+* https://github.com/naxingyu?tab=repositories
  ### <h3 id="1.2">open source library/toolbox/code</h3>
  #### HTK
 * http://htk.eng.cam.ac.uk/download.shtml)
@@ -403,6 +407,7 @@ https://pypi.org/project/apiai/
  ### <h3 id="5.4">Feature Extraction</h3>
  #### openSMILE
 * https://audeering.com/technology/opensmile/
+* https://github.com/naxingyu/opensmile
  #### veles.sound_feature_extraction
 * https://github.com/Samsung/veles.sound_feature_extraction
  #### vamp-plugin-sdk
