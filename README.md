@@ -111,6 +111,7 @@ this is a treasure-house of speech
  #### RNNLM
 * http://www.fit.vutbr.cz/~imikolov/rnnlm/
 * https://github.com/IntelLabs/rnnlm
+* https://github.com/glecorve/rnnlm2wfst
  #### faster-rnnlm
 * https://github.com/yandex/faster-rnnlm
  #### CUED-RNNLM Toolkit
