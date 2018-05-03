@@ -41,7 +41,8 @@ this is a treasure-house of speech
 * https://github.com/naxingyu?tab=repositories
  ### <h3 id="1.2">open source library/toolbox/code</h3>
  #### HTK
-* http://htk.eng.cam.ac.uk/download.shtml)
+* http://htk.eng.cam.ac.uk/download.shtml
+* https://github.com/dophist/HTK_3.4.1
  #### Kaldi:
 * https://github.com/kaldi-asr/kaldi
  #### py-kaldi-asr
@@ -71,6 +72,8 @@ this is a treasure-house of speech
 * https://github.com/Sundy1219/alignUsingKaldi
  #### kaldi-readers-for-tensorflow
 * https://github.com/t13m/kaldi-readers-for-tensorflow
+ #### kaldi-iot
+* https://github.com/dophist/kaldi-iot
  #### kaldi 在线中文识别系统搭建
 * https://blog.csdn.net/shichaog/article/details/73655628
  #### CSLT-Sparse-DNN-Toolkit
@@ -83,7 +86,9 @@ this is a treasure-house of speech
 * https://github.com/cmusphinx/pocketsphinx
  #### OpenFst
 * http://www.openfst.org/twiki/bin/view/FST/WebHome
+* https://github.com/UFAL-DSG/openfst
 * https://github.com/benob/openfst-utils
+* https://github.com/vchahun/pyfst
  #### MIT Spoken Language Systems
 * https://groups.csail.mit.edu/sls/downloads/
  #### Julius
@@ -119,6 +124,9 @@ this is a treasure-house of speech
 * http://mi.eng.cam.ac.uk/projects/cued-rnnlm/
  #### Using RNNLM rescoring a sentence in Chinese ASR system
 * https://github.com/Sundy1219/RNNLM
+ #### KenLM
+* https://github.com/kpu/kenlm
+* https://kheafield.com/code/kenlm/
  #### rwthlm
 * https://www-i6.informatik.rwth-aachen.de/web/Software/rwthlm.php
  #### SpeechRecognition
@@ -156,6 +164,7 @@ https://pypi.org/project/apiai/
 * https://github.com/JamezQ/Palaver
  #### Praat
 * http://www.fon.hum.uva.nl/praat/
+* https://github.com/kylebgorman/textgrid
  #### Speech Recognition Grammar Specification
 * https://www.w3.org/TR/speech-grammar/
  #### Automatic_Speech_Recognition
@@ -217,6 +226,12 @@ https://pypi.org/project/apiai/
  #### 1 Billion Word Language Model Benchmark
 * https://github.com/ciprian-chelba/1-billion-word-language-modeling-benchmark
 * http://www.statmt.org/lm-benchmark/
+ #### DaCiDian-Develop
+* https://github.com/dophist/DaCiDian-Develop
+ #### CC-CEDICT
+* https://www.mdbg.net/chinese/dictionary?page=cc-cedict
+ #### open-asr-lexicon
+* https://github.com/dophist/open-asr-lexicon
 
  ### <h3 id="1.4">Tutorial</h3>
  #### University of Edinburgh ASR2017-18
@@ -564,6 +579,8 @@ https://pypi.org/project/apiai/
 * http://ttic.uchicago.edu/~klivescu/SLATTIC/resources.htm
  #### RWTH Aachen University
 * https://www-i6.informatik.rwth-aachen.de/web/Software/index.html
+ #### Institute of Formal and Applied Linguistics – Dialogue Systems Group
+* https://github.com/UFAL-DSG
  #### Ohio State University speech separation
 * http://web.cse.ohio-state.edu/pnl/software.html
  #### Hainan Xu
