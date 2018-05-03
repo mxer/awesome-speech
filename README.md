@@ -83,6 +83,7 @@ this is a treasure-house of speech
 * https://github.com/cmusphinx/pocketsphinx
  #### OpenFst
 * http://www.openfst.org/twiki/bin/view/FST/WebHome
+* https://github.com/benob/openfst-utils
  #### MIT Spoken Language Systems
 * https://groups.csail.mit.edu/sls/downloads/
  #### Julius
