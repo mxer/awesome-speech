@@ -45,6 +45,8 @@ this is a treasure-house of speech
 * https://github.com/dophist/HTK_3.4.1
  #### Kaldi:
 * https://github.com/kaldi-asr/kaldi
+ #### Kaldi models
+* http://kaldi-asr.org/models.html
  #### py-kaldi-asr
 * https://github.com/pykaldi/pykaldi
 * https://github.com/gooofy/py-kaldi-asr
