@@ -82,6 +82,9 @@ this is a treasure-house of speech
  #### Some Kaldi Notes
 * http://jrmeyer.github.io/asr/2016/02/01/Kaldi-notes.html
 * http://sentiment-mining.blogspot.com/
+* http://pages.jh.edu/~echodro1/tutorial/kaldi/
+ #### Kaldi ASR: Extending the ASpIRE model
+* https://chrisearch.wordpress.com/2017/03/11/speech-recognition-using-kaldi-extending-and-using-the-aspire-model/
  #### FastCGI support for Kaldi ASR
 * https://github.com/dialogflow/asr-server
  #### alignUsingKaldi
@@ -167,6 +170,8 @@ https://pypi.org/project/apiai/
 * https://github.com/arjo129/uSpeech
  #### Juicer
 * https://github.com/idiap/juicer
+ #### PMLS
+* http://pmls.readthedocs.io/en/latest/dnn-speech.html
  #### dragonfly
 * https://github.com/t4ngo/dragonfly
  #### SPTK
@@ -252,6 +257,8 @@ https://pypi.org/project/apiai/
  ### <h3 id="1.4">Tutorial</h3>
  #### University of Edinburgh ASR2017-18
 * http://www.inf.ed.ac.uk/teaching/courses/asr/
+ #### stanford CS224s
+* https://web.stanford.edu/class/cs224s/syllabus.html
  #### NYU asr12
 * https://cs.nyu.edu/~mohri/asr12/
  #### Speech Recognition with Neural Networks
@@ -262,6 +269,7 @@ https://pypi.org/project/apiai/
  ### <h3 id="2.1">page</h3>
  #### CSTR-Edinburgh
 * https://github.com/CSTR-Edinburgh
+
  ### <h3 id="2.2">open source library/toolbox</h3>
  #### WORLD
 * https://github.com/mmorise/World
@@ -595,12 +603,16 @@ https://pypi.org/project/apiai/
 * http://ttic.uchicago.edu/~klivescu/SLATTIC/resources.htm
  #### RWTH Aachen University
 * https://www-i6.informatik.rwth-aachen.de/web/Software/index.html
+ #### TOKUDA and NANKAKU LABORATORY
+* http://www.sp.nitech.ac.jp/index.php?HOME%2FSOFTWARE
  #### Institute of Formal and Applied Linguistics – Dialogue Systems Group
 * https://github.com/UFAL-DSG
  #### Ohio State University speech separation
 * http://web.cse.ohio-state.edu/pnl/software.html
  #### Hainan Xu
 * https://www.cs.jhu.edu/~hxu/
+ #### Mark Gales
+* http://mi.eng.cam.ac.uk/~mjfg/
  #### Karen Livescu
 * http://ttic.uchicago.edu/~klivescu/
  #### Adrien Ycart
