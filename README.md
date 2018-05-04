@@ -39,6 +39,9 @@ this is a treasure-house of speech
  #### Xingyu Na
 * http://naxingyu.github.io/
 * https://github.com/naxingyu?tab=repositories
+ #### Language Processing and Pattern Recognition in University of Aachen
+* https://www-i6.informatik.rwth-aachen.de/web/Software/index.html
+
  ### <h3 id="1.2">open source library/toolbox/code</h3>
  #### HTK
 * http://htk.eng.cam.ac.uk/download.shtml
@@ -49,6 +52,8 @@ this is a treasure-house of speech
 * http://blog.geekidentity.com/asr/kaldi/kaldi_tutorial/
  #### Kaldi models
 * http://kaldi-asr.org/models.html
+ #### Corpus Phonetics Tutorial
+* https://www.eleanorchodroff.com/tutorial/kaldi/kaldi-intro.html
  #### py-kaldi-asr
 * https://github.com/pykaldi/pykaldi
 * https://github.com/gooofy/py-kaldi-asr
@@ -68,8 +73,15 @@ this is a treasure-house of speech
 * https://github.com/vrenkens/tfkaldi
  #### kaldi-yesno-tutorial
 * https://github.com/keighrim/kaldi-yesno-tutorial
+ #### Kaldi nnet3 教程
+* https://gist.github.com/candlewill/f6c789059bf28b99cee8e18b99c20bfd
+ #### Josh Meyer's Website
+* http://jrmeyer.github.io/
  #### Adapting your own Language Model for Kaldi
 * https://github.com/srvk/lm_build
+ #### Some Kaldi Notes
+* http://jrmeyer.github.io/asr/2016/02/01/Kaldi-notes.html
+* http://sentiment-mining.blogspot.com/
  #### FastCGI support for Kaldi ASR
 * https://github.com/dialogflow/asr-server
  #### alignUsingKaldi
