@@ -45,6 +45,8 @@ this is a treasure-house of speech
 * https://github.com/dophist/HTK_3.4.1
  #### Kaldi:
 * https://github.com/kaldi-asr/kaldi
+ #### Kaldi官方文档（中文版）
+* http://blog.geekidentity.com/asr/kaldi/kaldi_tutorial/
  #### Kaldi models
 * http://kaldi-asr.org/models.html
  #### py-kaldi-asr
