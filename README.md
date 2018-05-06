@@ -474,6 +474,8 @@ https://pypi.org/project/apiai/
 * http://kom.aau.dk/~zt/online/readme.htm
  #### IsraelCohen
 * http://webee.technion.ac.il/people/IsraelCohen/Info/Software.html
+ #### Python interface to the WebRTC Voice Activity Detector
+* https://github.com/wiseman/py-webrtcvad
 
 
 ## <h2 id="6">资源</h2>
@@ -556,6 +558,8 @@ https://pypi.org/project/apiai/
 * https://github.com/zaf?tab=repositories
  #### audio-to-audio and audio-to-midi alignment
 * https://github.com/cataska/scorealign
+ #### DNN based hotword and wake word detection toolkit 
+* https://github.com/Kitt-AI/snowboy
 
 * https://github.com/edobashira/speech-language-processing
 * https://github.com/andabi?tab=repositories
