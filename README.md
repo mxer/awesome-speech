@@ -423,6 +423,8 @@ https://pypi.org/project/apiai/
 * http://www.portaudio.com/
  #### audiolab
 * https://github.com/cournape/audiolab
+ #### pytorch audio
+* https://github.com/pytorch/audio
  #### Digital Speech Decoder
 * https://github.com/szechyjs/dsd
  #### audioread
