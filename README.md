@@ -285,6 +285,7 @@ https://pypi.org/project/apiai/
 * https://github.com/GSByeon/multi-speaker-tacotron-tensorflow
 * https://github.com/r9y9/tacotron_pytorch
  #### Tacotron2
+* https://github.com/NVIDIA/tacotron2
 * https://github.com/riverphoenix/tacotron2
 * https://github.com/A-Jacobson/tacotron2
 * https://github.com/selap91/Tacotron2
