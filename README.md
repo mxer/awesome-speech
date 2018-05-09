@@ -148,6 +148,8 @@ this is a treasure-house of speech
 * https://kheafield.com/code/kenlm/
  #### rwthlm
 * https://www-i6.informatik.rwth-aachen.de/web/Software/rwthlm.php
+ #### word-rnn-tensorflow
+* https://github.com/hunkim/word-rnn-tensorflow
  #### tensorlm
 * https://github.com/batzner/tensorlm
  #### SpeechRecognition
