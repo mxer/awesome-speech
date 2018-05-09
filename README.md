@@ -83,6 +83,8 @@ this is a treasure-house of speech
 * http://jrmeyer.github.io/asr/2016/02/01/Kaldi-notes.html
 * http://sentiment-mining.blogspot.com/
 * http://pages.jh.edu/~echodro1/tutorial/kaldi/
+ #### kaldi_tutorial
+* https://github.com/hyung8758/kaldi_tutorial
  #### Kaldi ASR: Extending the ASpIRE model
 * https://chrisearch.wordpress.com/2017/03/11/speech-recognition-using-kaldi-extending-and-using-the-aspire-model/
  #### FastCGI support for Kaldi ASR
@@ -95,6 +97,8 @@ this is a treasure-house of speech
 * https://github.com/dophist/kaldi-iot
  #### kaldi 在线中文识别系统搭建
 * https://blog.csdn.net/shichaog/article/details/73655628
+ #### kaldi-docker
+* https://github.com/golbin/kaldi-docker
  #### CSLT-Sparse-DNN-Toolkit
 * https://github.com/wyq730/CSLT-Sparse-DNN-Toolkit
  #### featxtra
