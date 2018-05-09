@@ -576,6 +576,8 @@ https://pypi.org/project/apiai/
 * https://github.com/cataska/scorealign
  #### DNN based hotword and wake word detection toolkit 
 * https://github.com/Kitt-AI/snowboy
+ #### free-spoken-digit-dataset
+* https://github.com/Jakobovski/free-spoken-digit-dataset
 
 * https://github.com/edobashira/speech-language-processing
 * https://github.com/andabi?tab=repositories
