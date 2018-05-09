@@ -242,6 +242,7 @@ https://pypi.org/project/apiai/
  #### TIMIT
 * https://catalog.ldc.upenn.edu/LDC93S1
 * https://github.com/syhw/timit_tools
+* https://github.com/philipperemy/timit
  #### GlobalPhone Language Models
 * http://www.csl.uni-bremen.de/GlobalPhone/
  #### 1 Billion Word Language Model Benchmark
