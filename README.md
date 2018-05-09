@@ -558,6 +558,8 @@ https://pypi.org/project/apiai/
  #### Praat
 * http://www.fon.hum.uva.nl/praat/
 * https://github.com/timmahrt/praatIO
+ #### librosa
+* https://github.com/librosa
  #### timmahrt
 * https://github.com/timmahrt?tab=repositories
  #### Lefteris Zafiris
