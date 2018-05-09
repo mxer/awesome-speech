@@ -204,6 +204,8 @@ https://pypi.org/project/apiai/
 * https://github.com/roboticslab-uc3m/speech
  #### CTC + Tensorflow Example for ASR
 * https://github.com/igormq/ctc_tensorflow_example
+ #### tensorflow-ctc-speech-recognition
+* https://github.com/philipperemy/tensorflow-ctc-speech-recognition
  #### speechT
 * https://github.com/timediv/speechT
  #### end2endASR
