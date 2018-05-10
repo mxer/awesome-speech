@@ -57,6 +57,7 @@ this is a treasure-house of speech
  #### py-kaldi-asr
 * https://github.com/pykaldi/pykaldi
 * https://github.com/gooofy/py-kaldi-asr
+* https://github.com/UFAL-DSG/pykaldi
  #### Dan's DNN implementation:
 * http://kaldi-asr.org/doc/dnn2.html
  #### pytorch-kaldi
@@ -85,6 +86,8 @@ this is a treasure-house of speech
 * http://pages.jh.edu/~echodro1/tutorial/kaldi/
  #### kaldi_tutorial
 * https://github.com/hyung8758/kaldi_tutorial
+ #### Online decoder for Kaldi NNET2 and GMM speech recognition models with Python bindings
+* https://github.com/UFAL-DSG/alex-asr
  #### Kaldi ASR: Extending the ASpIRE model
 * https://chrisearch.wordpress.com/2017/03/11/speech-recognition-using-kaldi-extending-and-using-the-aspire-model/
  #### FastCGI support for Kaldi ASR
@@ -580,6 +583,8 @@ https://pypi.org/project/apiai/
 * https://github.com/Jakobovski/free-spoken-digit-dataset
  #### 中文语言资源联盟
 * http://www.chineseldc.org/resource_list.php?begin=0&count=20
+ #### Institute of Formal and Applied Linguistics – Dialogue Systems Group
+* https://github.com/UFAL-DSG
 
 * https://github.com/edobashira/speech-language-processing
 * https://github.com/andabi?tab=repositories
