@@ -132,8 +132,7 @@ this is a treasure-house of speech
 * https://github.com/salesforce/awd-lstm-lm
  #### ISIP
 * https://www.isip.piconepress.com/projects/speech/
- #### VoxForge
-* http://www.voxforge.org/home
+
  #### MIT Finite-State Transducer (FST) Toolkit
 * http://groups.csail.mit.edu/sls/downloads/
  #### MIT Language Modeling (MITLM) Toolkit
@@ -248,6 +247,10 @@ https://pypi.org/project/apiai/
 
 
  ### <h3 id="1.3">dataset</h3>
+ #### VoxForge
+* http://www.voxforge.org/home
+* http://www.voxforge.org/zh
+* http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/Audio/Main/16kHz_16bit/
  #### ASR Audio Data Links
 * https://github.com/robmsmt/ASR_Audio_Data_Links
  #### The CMU Pronouncing Dictionary
