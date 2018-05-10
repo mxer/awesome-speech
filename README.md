@@ -578,6 +578,8 @@ https://pypi.org/project/apiai/
 * https://github.com/Kitt-AI/snowboy
  #### free-spoken-digit-dataset
 * https://github.com/Jakobovski/free-spoken-digit-dataset
+ #### 中文语言资源联盟
+* http://www.chineseldc.org/resource_list.php?begin=0&count=20
 
 * https://github.com/edobashira/speech-language-processing
 * https://github.com/andabi?tab=repositories
