@@ -673,4 +673,5 @@ https://pypi.org/project/apiai/
 * https://cs.nyu.edu/~mohri/
  #### DeepSound
 * http://deepsound.io/
-
+ #### Lei Xie
+* http://lxie.npu-aslp.org/
