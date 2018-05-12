@@ -653,6 +653,8 @@ https://pypi.org/project/apiai/
 * http://mi.eng.cam.ac.uk/~mjfg/
  #### Karen Livescu
 * http://ttic.uchicago.edu/~klivescu/
+ #### Shubham Toshniwal
+* https://github.com/shtoshni92?tab=repositories
  #### Adrien Ycart
 * http://www.eecs.qmul.ac.uk/~ay304/code.html
  #### Ron Weiss 
