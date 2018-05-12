@@ -671,6 +671,8 @@ https://pypi.org/project/apiai/
 * http://www.cs.huji.ac.il/~avivga/
  #### Mehryar Mohri
 * https://cs.nyu.edu/~mohri/
+ #### Jonathan LE ROUX
+* http://www.jonathanleroux.org/
  #### DeepSound
 * http://deepsound.io/
  #### Lei Xie
