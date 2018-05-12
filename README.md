@@ -612,6 +612,7 @@ https://pypi.org/project/apiai/
 * https://github.com/syhw/wer_are_we
 
 
+
 ## <h2 id="7">主页</h2>
  #### Dan Povey
 * http://www.danielpovey.com/publications.html
@@ -640,7 +641,9 @@ https://pypi.org/project/apiai/
  #### Institute of Formal and Applied Linguistics – Dialogue Systems Group
 * https://github.com/UFAL-DSG
  #### Ohio State University speech separation
-* http://web.cse.ohio-state.edu/pnl/software.html
+* http://web.cse.ohio-state.edu/pnl/software.html 
+ #### LEAP Laboratory
+* http://www.leap.ee.iisc.ac.in/publications/
  #### Hainan Xu
 * https://www.cs.jhu.edu/~hxu/
  #### Mark Gales
