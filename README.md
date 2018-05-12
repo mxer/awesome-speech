@@ -671,6 +671,11 @@ https://pypi.org/project/apiai/
 * http://www.zhizheng.org/
  #### justin salamon
 * http://www.justinsalamon.com/codedata.html
+ #### Karen Livescu
+* http://ttic.uchicago.edu/~klivescu/
+ #### Shubham Toshniwal
+* http://ttic.uchicago.edu/~shtoshni/#pubs
+* https://github.com/shtoshni92?tab=repositories
  #### Keith Vertanen
 * http://www.keithv.com/software/
  #### Aviv Gabbay
