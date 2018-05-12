@@ -41,6 +41,9 @@ this is a treasure-house of speech
 * https://github.com/naxingyu?tab=repositories
  #### Language Processing and Pattern Recognition in University of Aachen
 * https://www-i6.informatik.rwth-aachen.de/web/Software/index.html
+ #### Fernando de la Calle Silos
+* http://www.tsc.uc3m.es/~fsilos/
+* https://github.com/fernandodelacalle?tab=repositories
 
  ### <h3 id="1.2">open source library/toolbox/code</h3>
  #### HTK
@@ -88,6 +91,8 @@ this is a treasure-house of speech
 * https://github.com/hyung8758/kaldi_tutorial
  #### Online decoder for Kaldi NNET2 and GMM speech recognition models with Python bindings
 * https://github.com/UFAL-DSG/alex-asr
+ #### ResNet-Kaldi-Tensorflow-ASR
+* https://github.com/fernandodelacalle/ResNet-Kaldi-Tensorflow-ASR
  #### Kaldi ASR: Extending the ASpIRE model
 * https://chrisearch.wordpress.com/2017/03/11/speech-recognition-using-kaldi-extending-and-using-the-aspire-model/
  #### FastCGI support for Kaldi ASR
