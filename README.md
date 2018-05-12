@@ -628,8 +628,6 @@ https://pypi.org/project/apiai/
 * https://groups.csail.mit.edu/sls/downloads/
  #### Brno University of Technology Speech Processing Group
 * http://speech.fit.vutbr.cz/software
- #### LEAP Laboratory
-* http://leap.ee.iisc.ac.in/publications/
  #### IISc
 * https://spire.ee.iisc.ac.in/spire/allPublications.php
  #### uchicago Speech and Language @ TTIC
@@ -676,6 +674,8 @@ https://pypi.org/project/apiai/
 * https://cs.nyu.edu/~mohri/
  #### Jonathan LE ROUX
 * http://www.jonathanleroux.org/
+ #### Suyoun Kim
+* https://synetkim.github.io/
  #### DeepSound
 * http://deepsound.io/
  #### Lei Xie
