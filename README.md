@@ -129,6 +129,8 @@ this is a treasure-house of speech
 * http://www.bavieca.org/
  #### Simon 
 * https://simon.kde.org/
+ #### SIDEKIT
+* http://www-lium.univ-lemans.fr/sidekit/
  #### SRILM
 * https://www.sri.com/engage/products-solutions/sri-language-modeling-toolkit
 * http://www.speech.sri.com/projects/srilm/
