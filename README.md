@@ -134,6 +134,7 @@ this is a treasure-house of speech
  #### SRILM
 * https://www.sri.com/engage/products-solutions/sri-language-modeling-toolkit
 * http://www.speech.sri.com/projects/srilm/
+* https://github.com/nuance1979/srilm-python
 * https://github.com/njsmith/pysrilm
  #### awd-lstm-lm
 * https://github.com/salesforce/awd-lstm-lm
