@@ -402,6 +402,8 @@ https://pypi.org/project/apiai/
 * https://github.com/keunwoochoi/kapre
  #### BTK
 * http://distantspeechrecognition.sourceforge.net/
+ #### EspNet
+* https://github.com/espnet/espnet
  #### Signal-Processing
 * https://github.com/mathEnthusaistCodes/Signal-Processing
  #### pyroomacoustics
