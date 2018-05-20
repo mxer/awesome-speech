@@ -276,6 +276,8 @@ https://pypi.org/project/apiai/
 * https://github.com/dophist/DaCiDian-Develop
  #### CC-CEDICT
 * https://www.mdbg.net/chinese/dictionary?page=cc-cedict
+ #### TED-LIUM
+* https://lium.univ-lemans.fr/ted-lium3/
  #### open-asr-lexicon
 * https://github.com/dophist/open-asr-lexicon
 
