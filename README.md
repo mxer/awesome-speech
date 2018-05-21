@@ -338,6 +338,8 @@ https://pypi.org/project/apiai/
 * https://github.com/r9y9/nnmnkwii
  #### Ossian
 * https://github.com/CSTR-Edinburgh/Ossian
+ #### gTTS
+* https://github.com/pndurette/gTTS
  #### supercollider
 * https://github.com/supercollider/supercollider
  #### sc3-plugins
