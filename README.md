@@ -49,6 +49,8 @@ this is a treasure-house of speech
  #### HTK
 * http://htk.eng.cam.ac.uk/download.shtml
 * https://github.com/dophist/HTK_3.4.1
+ #### parallel-htk
+* https://github.com/jpuigcerver/parallel-htk
  #### Kaldi:
 * https://github.com/kaldi-asr/kaldi
  #### Kaldi官方文档（中文版）
@@ -103,6 +105,24 @@ this is a treasure-house of speech
 * https://github.com/t13m/kaldi-readers-for-tensorflow
  #### kaldi-iot
 * https://github.com/dophist/kaldi-iot
+ #### lattice-info
+* https://github.com/jpuigcerver/lattice-info
+ #### lattice-char-to-word
+* https://github.com/jpuigcerver/lattice-char-to-word
+ #### lattice-word-length-distribution
+* https://github.com/jpuigcerver/lattice-word-length-distribution
+ #### kaldi-lattice-word-index
+* https://github.com/jpuigcerver/kaldi-lattice-word-index
+ #### kaldi-decoders
+* https://github.com/jpuigcerver/kaldi-decoders
+ #### lattice-remove-ctc-blank
+* https://github.com/jpuigcerver/lattice-remove-ctc-blank
+ #### kaldi-lattice-search
+* https://github.com/jpuigcerver/kaldi-lattice-search
+ #### htk2kaldi
+* https://github.com/jpuigcerver/htk2kaldi
+ #### parallel-kaldi
+* https://github.com/jpuigcerver/parallel-kaldi
  #### kaldi 在线中文识别系统搭建
 * https://blog.csdn.net/shichaog/article/details/73655628
  #### kaldi-docker
