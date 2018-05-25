@@ -543,6 +543,8 @@ https://pypi.org/project/apiai/
 * http://www.openslr.org/
  #### List of speech recognition software
 * https://en.wikipedia.org/wiki/List_of_speech_recognition_software
+ #### KTH
+* http://www.speech.kth.se/software/
  #### VERBIO
 * http://www.verbio.com/webverbiotm/html/productes.php?id=2
  #### timeview
