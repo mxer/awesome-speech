@@ -567,6 +567,10 @@ https://pypi.org/project/apiai/
 * https://github.com/xiph
  #### Brno University of Technology Speech Processing Group
 * http://speech.fit.vutbr.cz/software
+ #### SoX
+* http://sox.sourceforge.net/
+ #### Transcriber
+* http://trans.sourceforge.net/en/presentation.php
  #### Amirsina Torfi
 * https://github.com/astorfi?tab=repositories
  #### The Speech Recognition Virtual Kitchen
@@ -580,6 +584,8 @@ https://pypi.org/project/apiai/
 * https://github.com/beetbox
  #### CAQE
 * https://github.com/interactiveaudiolab/CAQE
+ #### UCL Speech Filing System
+* http://www.phon.ucl.ac.uk/resource/sfs/
  #### Ryuichi Yamamoto
 * https://github.com/r9y9?tab=repositories
  #### Kyubyong Park
