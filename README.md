@@ -48,6 +48,8 @@ this is a treasure-house of speech
  ### <h3 id="1.2">open source library/toolbox/code</h3>
  #### HTK
 * http://htk.eng.cam.ac.uk/download.shtml
+ #### Py2HTK
+* https://github.com/g-leech/Py2HTK
  #### parallel-htk
 * https://github.com/jpuigcerver/parallel-htk
  #### Kaldi:
