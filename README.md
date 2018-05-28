@@ -52,6 +52,7 @@ this is a treasure-house of speech
 * https://github.com/g-leech/Py2HTK
  #### parallel-htk
 * https://github.com/jpuigcerver/parallel-htk
+
  #### Kaldi:
 * https://github.com/kaldi-asr/kaldi
  #### Kaldi官方文档（中文版）
@@ -72,6 +73,8 @@ this is a treasure-house of speech
 * https://github.com/dophist/kaldi-lstm
  #### keras-kaldi
 * https://github.com/dspavankumar/keras-kaldi
+ #### python wrapper for kaldi-online-decoder
+* https://github.com/funcwj/pydecoder
  #### Kaldi+PDNN
 * https://github.com/yajiemiao/kaldipdnn
  #### kaldi-ivector
