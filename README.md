@@ -612,6 +612,8 @@ https://pypi.org/project/apiai/
 * http://www.justinsalamon.com/codedata.html
  #### COLEA
 * http://ecs.utdallas.edu/loizou/speech/colea.htm
+ #### openAUDIO
+* http://www.openaudio.eu/
  #### Praat
 * http://www.fon.hum.uva.nl/praat/
 * https://github.com/timmahrt/praatIO
