@@ -617,6 +617,8 @@ https://pypi.org/project/apiai/
 * https://github.com/timmahrt/praatIO
  #### librosa
 * https://github.com/librosa
+ #### Essentia
+* https://github.com/MTG/essentia
  #### timmahrt
 * https://github.com/timmahrt?tab=repositories
  #### Lefteris Zafiris
