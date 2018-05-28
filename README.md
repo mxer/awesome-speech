@@ -52,6 +52,8 @@ this is a treasure-house of speech
 * https://github.com/g-leech/Py2HTK
  #### parallel-htk
 * https://github.com/jpuigcerver/parallel-htk
+ #### HTK_C_MATLAB_tools
+* https://github.com/sinb/HTK_C_MATLAB_tools
 
  #### Kaldi:
 * https://github.com/kaldi-asr/kaldi
