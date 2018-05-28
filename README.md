@@ -74,6 +74,8 @@ this is a treasure-house of speech
 * https://github.com/mravanelli/pytorch-kaldi/
  #### kaldi-lstm
 * https://github.com/dophist/kaldi-lstm
+ #### kaldi-ctc
+* https://github.com/lingochamp/kaldi-ctc
  #### keras-kaldi
 * https://github.com/dspavankumar/keras-kaldi
  #### python wrapper for kaldi-online-decoder
@@ -82,6 +84,8 @@ this is a treasure-house of speech
 * https://github.com/yajiemiao/kaldipdnn
  #### tfkaldi
 * https://github.com/vrenkens/tfkaldi
+ #### Kaldi_CNTK_AMI
+* https://github.com/chenguoguo/Kaldi_CNTK_AMI
  #### kaldi-io-for-python
 * https://github.com/vesis84/kaldi-io-for-python
  #### kaldi-pyio
