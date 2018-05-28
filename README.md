@@ -80,6 +80,8 @@ this is a treasure-house of speech
 * https://github.com/vrenkens/tfkaldi
  #### kaldi-io-for-python
 * https://github.com/vesis84/kaldi-io-for-python
+ #### kaldi-pyio
+* https://github.com/funcwj/kaldi-pyio
  #### kaldi-tree-conv
 * https://github.com/dophist/kaldi-tree-conv
  #### kaldi-ivector
