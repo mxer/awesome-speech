@@ -80,6 +80,10 @@ this is a treasure-house of speech
 * https://github.com/vrenkens/tfkaldi
  #### kaldi-io-for-python
 * https://github.com/vesis84/kaldi-io-for-python
+ #### kaldi-tree-conv
+* https://github.com/dophist/kaldi-tree-conv
+ #### kaldi-ivector
+* https://github.com/idiap/kaldi-ivector
  #### kaldi-yesno-tutorial
 * https://github.com/keighrim/kaldi-yesno-tutorial
  #### Kaldi nnet3 教程
@@ -456,8 +460,16 @@ https://pypi.org/project/apiai/
 * https://github.com/jfsantos/maracas
  #### SRMRpy
 * https://github.com/jfsantos/SRMRpy
+ #### ssp
+* https://github.com/idiap/ssp
+* https://github.com/idiap/libssp
+ #### iss
+* https://github.com/idiap/iss
+* https://github.com/idiap/iss-dicts
  #### asr_preprocessing
 * https://github.com/hirofumi0810/asr_preprocessing
+ #### asrt
+* https://github.com/idiap/asrt
  #### Audio super resolution using NN
 * https://github.com/kuleshov/audio-super-res
  #### RNN training for noise reduction in robust asr
