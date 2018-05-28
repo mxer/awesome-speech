@@ -67,6 +67,7 @@ this is a treasure-house of speech
 * https://github.com/pykaldi/pykaldi
 * https://github.com/gooofy/py-kaldi-asr
 * https://github.com/UFAL-DSG/pykaldi
+* https://github.com/janchorowski/kaldi-python
  #### Dan's DNN implementation:
 * http://kaldi-asr.org/doc/dnn2.html
  #### pytorch-kaldi
@@ -79,8 +80,6 @@ this is a treasure-house of speech
 * https://github.com/funcwj/pydecoder
  #### Kaldi+PDNN
 * https://github.com/yajiemiao/kaldipdnn
- #### kaldi-ivector
-* https://github.com/idiap/kaldi-ivector
  #### tfkaldi
 * https://github.com/vrenkens/tfkaldi
  #### kaldi-io-for-python
