@@ -48,7 +48,6 @@ this is a treasure-house of speech
  ### <h3 id="1.2">open source library/toolbox/code</h3>
  #### HTK
 * http://htk.eng.cam.ac.uk/download.shtml
-* https://github.com/dophist/HTK_3.4.1
  #### parallel-htk
 * https://github.com/jpuigcerver/parallel-htk
  #### Kaldi:
@@ -77,6 +76,8 @@ this is a treasure-house of speech
 * https://github.com/idiap/kaldi-ivector
  #### tfkaldi
 * https://github.com/vrenkens/tfkaldi
+ #### kaldi-io-for-python
+* https://github.com/vesis84/kaldi-io-for-python
  #### kaldi-yesno-tutorial
 * https://github.com/keighrim/kaldi-yesno-tutorial
  #### Kaldi nnet3 教程
