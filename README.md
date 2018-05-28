@@ -594,6 +594,8 @@ https://pypi.org/project/apiai/
 * http://speech.fit.vutbr.cz/software
  #### SoX
 * http://sox.sourceforge.net/
+ #### STRAIGHT
+* https://github.com/shuaijiang/STRAIGHT
  #### Idiap Research Institute
 * https://github.com/idiap
  #### Transcriber
