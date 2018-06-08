@@ -231,6 +231,7 @@ https://pypi.org/project/apiai/
 * https://github.com/t4ngo/dragonfly
  #### SPTK
 * https://github.com/r9y9/SPTK
+* https://github.com/sp-nitech/SPTK
 * http://sp-tk.sourceforge.net/
  #### pysptk
 * https://github.com/r9y9/pysptk
