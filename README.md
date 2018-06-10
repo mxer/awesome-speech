@@ -266,6 +266,8 @@ https://pypi.org/project/apiai/
 * https://github.com/timediv/speechT
  #### end2endASR
 * https://github.com/cdyangbo/end2endASR
+ #### NADU
+* https://github.com/vrenkens/nabu
  #### DTW (Dynamic Time Warping) python module
 * https://github.com/pierre-rouanet/dtw
  #### Various scripts and tools for speech recognition model building
