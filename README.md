@@ -380,6 +380,8 @@ https://pypi.org/project/apiai/
 * https://github.com/CSTR-Edinburgh/Ossian
  #### gTTS
 * https://github.com/pndurette/gTTS
+ #### gnuspeech
+* http://git.savannah.gnu.org/cgit/gnuspeech.git
  #### supercollider
 * https://github.com/supercollider/supercollider
  #### sc3-plugins
@@ -453,6 +455,8 @@ https://pypi.org/project/apiai/
  #### librosa
 * https://github.com/librosa/librosa
 * https://github.com/librosa/librosa_gallery
+ #### REAPER
+* https://github.com/google/REAPER
  #### MSD_split_for_tagging
 * https://github.com/keunwoochoi/MSD_split_for_tagging
  #### VOICEBOX
@@ -599,6 +603,7 @@ https://pypi.org/project/apiai/
 * http://sox.sourceforge.net/
  #### STRAIGHT
 * https://github.com/shuaijiang/STRAIGHT
+* http://www.wakayama-u.ac.jp/~kawahara/STRAIGHTadv/index_e.html
  #### Idiap Research Institute
 * https://github.com/idiap
  #### Transcriber
